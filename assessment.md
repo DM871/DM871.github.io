@@ -9,14 +9,15 @@ nav_order: 4
 
 - Ordinary exam: two, 24h, take-home tests
 
-  - Test 1: Wednesday, March 1, 2023; from 8:00 to 7:59
-  - Test 2: Monday, April 3, 2023; from 8:00 to 7:59
+  - Test 1: <!-- Wednesday, March 1, 2023; from 8:00 to 7:59 -->
+  - Test 2: <!-- Monday, April 3, 2023; from 8:00 to 7:59  -->
 
 
 - Reexam: two days take-home exam in August.
 
 
-- [Preparation for the take-home assignments](./notes/editing.html)
+- Preparation for the take-home assignments
+ 
 
 
 

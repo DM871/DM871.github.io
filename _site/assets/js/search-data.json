@@ -36,7 +36,7 @@
   },"5": {
     "doc": "Assessment",
     "title": "Assessment",
-    "content": ". | Ordinary exam: two, 24h, take-home tests . | Test 1: Wednesday, March 1, 2023; from 8:00 to 7:59 | Test 2: Monday, April 3, 2023; from 8:00 to 7:59 | . | Reexam: two days take-home exam in August. | Preparation for the take-home assignments . | . ",
+    "content": ". | Ordinary exam: two, 24h, take-home tests . | Test 1: | Test 2: | . | Reexam: two days take-home exam in August. | Preparation for the take-home assignments . | . ",
     "url": "/assessment/",
     
     "relUrl": "/assessment/"
@@ -78,7 +78,7 @@
   },"11": {
     "doc": "Home",
     "title": "Instructors",
-    "content": "Lena Gladbach . lenagl@imada.sdu.dk . Matinus Herman Kiilerich Kristensen . matik19@student.sdu.dk . ",
+    "content": "Lena Gladbach . lenagl@imada.sdu.dk . DM871 section H1 . Matinus Herman Kiilerich Kristensen . matik19@student.sdu.dk . DM545 section M1 . ",
     "url": "/#instructors",
     
     "relUrl": "/#instructors"
