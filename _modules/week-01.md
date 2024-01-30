@@ -1,0 +1,64 @@
+---
+title: Linear Programming
+---
+
+Before the course starts:
+
+**Exercises**{: .label .label-purple } [Linear Algebra Review][50];
+
+
+Feb 1:
+
+- Course Organization
+- Introductory elements: Linear Programming, 
+- Resource allocation in factory planning.
+- Linear programming problems and geometrical interpretation. 
+
+
+Feb 2
+
+- Diet problem 
+- Fourier & Moutzkin elimination
+- Notation: polyhedral analysis
+
+Feb 5
+
+**Exercises**{: .label .label-purple } LP Modeling
+
+
+Feb 6
+
+- Simplex Method 
+- Geometry and Algebra of Linear programming theory
+- [Fundamental theorem](http://en.wikipedia.org/wiki/Fundamental_theorem_of_linear_programming)  
+- Gaussian Elimination 
+- Simplex method, tableaux and dictionaries
+
+Feb 9
+- Exception Handling, degeneracies, pivot rules,
+- Initialization
+
+Feb 12
+
+**Exercises**{: .label .label-purple } 
+
+<!--
+: **Lab**{: .label .label-purple } [Intro to Java](#)
+
+: [Tracing, IntLists, & Recursion](#)
+  : [2.1](#)
+: **HW 1 due**{: .label .label-red }
+-->
+
+
+[50]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
+[500]: {{ "/assets/sheets/dm545_sheet0_python.pdf" | absolute_url }}
+[51]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
+[52]: {{ "/assets/dm545_sheet2.pdf" | absolute_url }}
+[522]: {{ "/assets/dm545_sheet2_plus.pdf" | absolute_url }}
+[53]: {{ "/assets/dm545_sheet3.pdf" | absolute_url }}
+[54]: {{ "/assets/dm545_sheet4.pdf" | absolute_url }}
+[55]: {{ "/assets/dm545_sheet5.pdf" | absolute_url }}
+[56]: {{ "/assets/dm545_sheet6.pdf" | absolute_url }}
+[57]: {{ "/assets/dm545_sheet7.pdf" | absolute_url }}
+[58]: {{ "/assets/dm545_sheet8.pdf" | absolute_url }}
