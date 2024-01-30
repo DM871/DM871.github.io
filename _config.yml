@@ -51,6 +51,11 @@ collections:
   modules:
   #schedules:
   announcements:
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+
+
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -76,6 +81,16 @@ defaults:
       type: announcements
     values:
       layout: announcement
+
+
+just_the_docs:
+  collections:
+    tutorials:
+      name: Tutorials
+      nav_fold: true
+      # nav_exclude: true
+        
+
 
 compress_html:
   clippings: all

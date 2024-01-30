@@ -28,7 +28,7 @@ serve2:
 
 
 serve:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --incremental --livereload
 
 build:
 	bundle install
