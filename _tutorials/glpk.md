@@ -3,6 +3,8 @@ layout: default #Do not change.
 title: "GLPK" #Article title.
 date:   2022-12-14 14:02:54 +0200
 author: marco #Author's nick.
+nav_order: 4
+nav_exclude: true
 ---
 
 

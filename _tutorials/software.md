@@ -33,7 +33,7 @@ an instantiated MILP can be exported to a file: `.mps` format, which is
 an almost universal format among solver systems, but that is not easy to
 read and `.lp` format, which is more readable (introduced by CPLEX).
 
-You find a list of commercial or open solvers in this
+You find a list of commercial or free solvers in this
 [page](https://imada.sdu.dk/u/march/Blog/optimization/software/2023/02/12/optsoft.html). Commercial
 solvers remain maybe 6-7 time faster than the main free/open-source
 solvers.
@@ -41,8 +41,8 @@ solvers.
 The NEOS server ([www.neos-server.org](www.neos-server.org)) provides an
 infrastructure to upload an instantiated model and solve it remotedly.
 
-In this tutorial, we use Python. In Python we will import a module, that
-makes available the library to pass models to the solver. It is not a
+In this course, we use Python. In Python we will import a module, that
+makes available a library to pass models to the solver. It is not a
 mathematical programming language but the library is very light and
 similar to a modelling language.
 
@@ -64,8 +64,7 @@ We will consider the following alternatives:
 
 ## Preparation
 
-This document can be opened in Google CoLab and the code executed
-online. However, it is recommended to set up a local working environment
+You can use Google CoLabs and execute the code online. However, it is recommended to set up a local working environment
 with the following steps:
 
 - If your operating system is Windows then install the Windows Subsystem
@@ -85,15 +84,6 @@ with the following steps:
     the solver CBC. If you want to work with gurobi follow these local
     [guidelines](gurobi.html) for the installation.
 
-  - Alternatively, install SCIP following these
-  [instructions](https://github.com/scipopt/PySCIPOpt/blob/master/INSTALL.md) (you need
-  to be on Linux, MacOs or WSL). Choose the installation via Precompiled
-  Packages.  Then, install `PySCIPOpt` with `pip install pyscipopt`
-  preceeded by these
-  [instructions](https://www.scipopt.org/index.php#download) under the
-  section Requirements. Consult the
-  [documentation](https://scipopt.github.io/PySCIPOpt/docs/html/).
-
   - Alternatively, install `gurobipy` (easiest alternative). Follow these
     [guidelines](https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python-). The
     recommended installation is via `pip`.  This should install also
@@ -104,7 +94,14 @@ with the following steps:
     the license. See also this local page of [guidelines](gurobi.html)
     for a full installation and documentation of gurobi.
 
-
+  - Alternatively, install SCIP following these
+    [instructions](https://github.com/scipopt/PySCIPOpt/blob/master/INSTALL.md) (you need
+    to be on Linux, MacOs or WSL). Choose the installation via Precompiled
+    Packages.  Then, install `PySCIPOpt` with `pip install pyscipopt`
+    preceeded by these
+    [instructions](https://www.scipopt.org/index.php#download) under the
+    section Requirements. Consult the
+    [documentation](https://scipopt.github.io/PySCIPOpt/docs/html/).
 
 We assume that you have previous knowledge of Python programming (a
 couple of links to review Python programming are available from the

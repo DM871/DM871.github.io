@@ -1,9 +1,10 @@
 ---
 layout: default
 mathjax: true
-title:  Sheet 2
+title:  Python Set Up
 date:   2021-02-17 09:33:19 +0100
 categories: notes, python
+nav_order: 1
 ---
 
 

@@ -1,8 +1,10 @@
 ---
 layout: default #Do not change.
-title: "Installation gurobi" #Article title.
+title: Gurobi #Article title.
 date:   2023-03-09 14:02:54 +0200
 author: marco #Author's nick.
+nav_order: 5
+nav_exclude: true
 ---
 
 
@@ -19,7 +21,7 @@ author: marco #Author's nick.
   [Quick Start Guide](https://www.gurobi.com/documentation/quickstart.html)
   relative to your system. You can install all software via the
   (Ana)conda Python distribution. However, note that if you have already
-  Python installed you may hand up having two distributions of it in
+  Python installed you may end up having two distributions of it in
   your systems, which often creates confusion. Hence, the conda
   distribution is not recommended in this course.
 
@@ -37,7 +39,7 @@ author: marco #Author's nick.
   ae36ac20-16e6-acd2-f242-4da6e765fa0a). The 'grbgetkey' program will
   prompt you to store the license file on your machine (to do this step
   you must be within the SDU Net via
-  [VPN connect](https://any.sdu.dk/).
+  [VPN connect](https://any.sdu.dk/)).
 
 
 

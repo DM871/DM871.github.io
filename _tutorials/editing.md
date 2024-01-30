@@ -1,16 +1,19 @@
 ---
 layout: default
-mathjax: true
-title:  Sheet 2
+math: mathjax3
+title:  Preparation for Take-Home Assignments 
 date:   2021-01-31 09:33:19 +0100
 categories: notes
 ---
 
-## Preparation for take-home assignments 
+# Preparation for Take-Home Assignments 
 
 
-### Instructions on the front page of the test
+## Instructions on the front page of the test
 
+A few days before the exam the instructions as they will appear in the front page of the exam text will be published here.
+
+<!--
 This is one of a series of tests that constitute the exam of the
 course. The test consists of a number of tasks subdivided into
 subtasks. The answers must be collected in a unique PDF document and are
@@ -61,8 +64,9 @@ to be handed in electronically in ItsLearning.
   given but tasks are sorted by non-increasing impact on the final
   grade.
   
+-->
 
-### Templates
+## Templates
  
 <!--
 
@@ -71,12 +75,12 @@ to be handed in electronically in ItsLearning.
 -->
 
 -   Recommended answer templates: 
-    - [Latex](../assets/Templates/template_answers.tex) ([PDF](../assets/Templates/template_answers.pdf))
-    - [Word](../assets/Templates/Template_Wordformat.docx) 
-    - [OpenDocument](../assets/Templates/Template_Writerformat.odt)
+    - [Latex](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
+    - [Word](/assets/Templates/Template_Wordformat.docx) 
+    - [OpenDocument](/assets/Templates/Template_Writerformat.odt)
 
 
-### Aiding tools
+## Aiding tools
 
 <!-- -->
 
@@ -85,12 +89,10 @@ to be handed in electronically in ItsLearning.
 -   Mathematical formulas, if not handwritten, are best encoded
     in LaTeX. Typesetting them in Word takes too long.
 
-    -   [Latex symbol
-        classifier](http://detexify.kirelabs.org/classify.html)
-<!--
--   [Syntax Highlight Code In Word
-        Documents](http://www.planetb.ca/syntax-highlight-word)
--->
+    -   [Latex symbol classifier](http://detexify.kirelabs.org/classify.html)
+
+<!-- [Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word) -->
+
 
 -   [Python for matrix operations](https://github.com/DM871/dm871.github.io/blob/main/notebooks/Tutorial4Exam.ipynb) (modules "numpy" and "fractions")
 
@@ -113,7 +115,7 @@ to be handed in electronically in ItsLearning.
     templates:
 
 
-``` {.latex}
+```{.latex}
 \begin{align}
    \label{ob} \max \; \quad & \sum_{j=1}^nc_jx_j  \\
    \label{c1} \mbox{s.t.} \quad &\sum\limits_{j=1}^n a_{ij}x_j\geq b_i, \quad i=1,\ldots,m \\
@@ -130,37 +132,37 @@ $$
 
 
 
-``` {.latex}
+```{.latex}
 \begin{equation}
  \begin{array}{lrll}
   \max & \sum\limits_{j=1}^nc_jx_j\\
-  & \sum\limits_{j=1}^n a_{ij}x_j & \leq b_i,& i=1,\ldots,m\\
-  & x_j&\geq 0, & j=1,\ldots,n
+      & \sum\limits_{j=1}^n a_{ij}x_j & \leq b_i,& i=1,\ldots,m\\
+      & x_j&\geq 0, & j=1,\ldots,n
  \end{array}
 \end{equation}
 ```
 
 $$
 \begin{array}{lrll}
- \max & \sum\limits_{j=1}^nc_jx_j\\
- &\sum\limits_{j=1}^n a_{ij}x_j&\leq b_i,& i=1,\ldots,m\\
- &x_j&\geq 0,& j=1,\ldots,n
+    \max & \sum\limits_{j=1}^nc_jx_j\\
+    &\sum\limits_{j=1}^n a_{ij}x_j&\leq b_i,& i=1,\ldots,m\\
+    &x_j&\geq 0,& j=1,\ldots,n
 \end{array}
 $$
 
 
-``` {.latex}
+```{.latex}
 \begin{equation}
-\label{ob}
-\max  \sum_{j=1}^nc_jx_j\\
+    \label{ob}
+    \max  \sum_{j=1}^nc_jx_j\\
 \end{equation}
 \begin{equation}
-\label{c1}
-\sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m\\
+    \label{c1}
+    \sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m\\
 \end{equation}
 \begin{equation}
-\label{c2}
-x_j\geq 0, j=1,\ldots,n
+    \label{c2}
+    x_j\geq 0, j=1,\ldots,n
 \end{equation}
 ```
 

@@ -1,32 +1,9 @@
 ---
-title: Linear Programming
+title: "Linear Programming: The Simplex Method" 
 ---
 
-Before the course starts:
 
-**Exercises**{: .label .label-purple } [Linear Algebra Review][50];
-
-
-Feb 1:
-
-- Course Organization
-- Introductory elements: Linear Programming, 
-- Resource allocation in factory planning.
-- Linear programming problems and geometrical interpretation. 
-
-
-Feb 2
-
-- Diet problem 
-- Fourier & Moutzkin elimination
-- Notation: polyhedral analysis
-
-Feb 5
-
-**Exercises**{: .label .label-purple } LP Modeling
-
-
-Feb 6
+### Feb 6: Lecture 3
 
 - Simplex Method 
 - Geometry and Algebra of Linear programming theory
@@ -34,13 +11,14 @@ Feb 6
 - Gaussian Elimination 
 - Simplex method, tableaux and dictionaries
 
-Feb 9
+### Feb 9: Lecture 4
+
 - Exception Handling, degeneracies, pivot rules,
 - Initialization
 
-Feb 12
+### Feb 12: Exercise 2
 
-**Exercises**{: .label .label-purple } 
+<!-- **Exercises**{: .label .label-purple } -->
 
 <!--
 : **Lab**{: .label .label-purple } [Intro to Java](#)
@@ -49,6 +27,8 @@ Feb 12
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
 -->
+
+
 
 
 [50]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
