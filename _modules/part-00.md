@@ -6,7 +6,8 @@ title: Before start
 
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- [Linear Algebra Review][50]
-- [Exercise sheet on Python for Linear Algebra]({{ "/assets/sheets/dm545_sheet0_python.pdf" | absolute_url }})
+- [Sheet 0][50]: Linear Algebra Review
+- [Sheet 0 python]({{ "/assets/sheets/dm545_sheet0_python.pdf" | absolute_url }}): Python for linear algebra
+
 
 [50]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
