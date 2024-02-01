@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 description: The weekly event schedule.
 nav_order: 2
-last_modified_date: 2024-01-29 16:22
+last_modified_date: 2024-02-01 17:22
 ---
 
 <!--
@@ -29,7 +29,7 @@ last_modified_date: 2024-01-29 16:22
 
 
 
-## Condensed
+## Condensed view
 
 
 
