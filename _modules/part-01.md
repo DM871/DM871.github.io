@@ -16,13 +16,13 @@ Lecture resources:
 
 ### Feb 2: Lecture 2
 
-Contents
+Contents:
 - Diet problem 
 - Fourier & Moutzkin elimination [Da]; [FM] 
 - Notation: polyhedral analysis [F ch 1, 2]; [MG ch 4]; [HL sc 5.1] 
-- [Fundamental theorem](http://en.wikipedia.org/wiki/Fundamental_theorem_of_linear_programming) 
+- [Fundamental theorem of linear programming](http://en.wikipedia.org/wiki/Fundamental_theorem_of_linear_programming) 
 
-Lecture resources
+Lecture resources:
 - Slides [PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})
 - Notes: [LN pp 7-21]({{ "/assets/dm545-main.pdf#diet" | absolute_url }})
 
