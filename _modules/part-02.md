@@ -6,8 +6,7 @@ title: "Linear Programming: The Simplex Method"
 ### Feb 6: Lecture 3
 
 - Simplex Method 
-- Geometry and Algebra of Linear programming theory
-- [Fundamental theorem](http://en.wikipedia.org/wiki/Fundamental_theorem_of_linear_programming)  
+- Geometry and Algebra of Linear programming theory 
 - Gaussian Elimination 
 - Simplex method, tableaux and dictionaries
 
