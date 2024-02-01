@@ -29,8 +29,7 @@ Lecture resources
 <!-- **Exercises**{: .label .label-purple }  -->
 
 
-[Sheet 1]({{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}): 
-	- LP Modeling
+- [Sheet 1]({{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}): LP Modeling
 
 
 
