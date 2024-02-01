@@ -5,10 +5,13 @@ title: Introductory Notions
 ### Feb 1: Lecture 1 
 
 - Course Organization
-- Introductory elements: Linear Programming, 
-- Resource allocation in factory planning.
+- Introductory elements: Linear Programming 
+- Resource allocation in factory planning  
 - Linear programming problems and geometrical interpretation. 
 
+Slides [PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})
+
+Ref: [LN pp 1-7]({{ "/assets/dm545-main.pdf#intro" | absolute_url }}), [MG ch 1,2, Appendix], [HL ch 1,2,3] 
 
 ### Feb 2: Lecture 2
 

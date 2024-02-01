@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Schedule
 description: The weekly event schedule.
 nav_order: 2
@@ -34,8 +34,6 @@ last_modified_date: 2024-01-29 16:22
 
 
 {% include dm545_m1.html %}
-
-
 
 
 
