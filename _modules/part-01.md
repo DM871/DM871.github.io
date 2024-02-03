@@ -12,7 +12,7 @@ Contents:
 
 Lecture resources:
 - Slides [PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})
-- Notes: [LN pp 1-7]({{ "/assets/dm545-main.pdf#intro" | absolute_url }})
+- Notes: [LN pp 1-7]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})
 
 ### Feb 2: Lecture 2
 
@@ -24,7 +24,7 @@ Contents:
 
 Lecture resources:
 - Slides [PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})
-- Notes: [LN pp 7-21]({{ "/assets/dm545-main.pdf#diet" | absolute_url }})
+- Notes: [LN pp 7-21]({{ "/assets/docs/dm545-main.pdf#diet" | absolute_url }})
 
 ### Feb 5: Exercise 1
 <!-- **Exercises**{: .label .label-purple }  -->
