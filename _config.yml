@@ -31,7 +31,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "Dockerfile", "docker-
 theme: just-the-docs
 color_scheme: light
 search_enabled: true
-heading_anchors: true
+heading_anchors: false
 permalink: pretty
 favicon_ico: "/assets/images/favicon.ico"
 aux_links:
@@ -93,10 +93,14 @@ defaults:
 
 just_the_docs:
   collections:
+#    modules:
+#      name: Classes
+#      nav_fold: false
+#      # nav_exclude: true
     tutorials:
       name: Tutorials
       nav_fold: true
-      # nav_exclude: true
+#      # nav_exclude: true
         
 
 
@@ -107,7 +111,6 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
 
 
 

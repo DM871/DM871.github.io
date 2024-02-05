@@ -1,8 +1,10 @@
 ---
-title: Before start
+title: "Unit 0: Linear Algebra"
 ---
 
 ### Exercise 0 
+
+Before course start
 
 <!-- **Exercises**{: .label .label-purple }  -->
 

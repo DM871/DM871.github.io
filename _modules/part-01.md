@@ -1,5 +1,5 @@
 ---
-title: Introductory Notions
+title: "Unit 1: Introductory Notions"
 ---
 
 ### Feb 1: Lecture 1 
@@ -20,7 +20,6 @@ Contents:
 - Diet problem 
 - Fourier & Moutzkin elimination [Da]; [FM] 
 - Notation: polyhedral analysis [F ch 1, 2]; [MG ch 4]; [HL sc 5.1] 
-- [Fundamental theorem of linear programming](http://en.wikipedia.org/wiki/Fundamental_theorem_of_linear_programming) 
 
 Lecture resources:
 - Slides [PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})
