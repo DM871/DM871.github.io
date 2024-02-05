@@ -37,64 +37,6 @@ categories: notes
 
 
 
-
-## Instructions on the front page of the test
-
-A few days before the exam the instructions as they will appear in the front page of the exam text will be published here.
-
-<!--
-This is one of a series of tests that constitute the exam of the
-course. The test consists of a number of tasks subdivided into
-subtasks. The answers must be collected in a unique PDF document and are
-to be handed in electronically in ItsLearning.
-
--   **The test is individual. You are not allowed to collaborate by any
-    means with other persons**.
-
--   Keep your answers anonymous but make sure that you specify your
-    **SDU username** (the part in your SDU email address before the
-    @ symbol). Use the Latex or Word templates provided in the external
-    web page to see where to specify the SDU username (Assessment
-    $\rightarrow$ Preparation for the take-home assignments).
-
-- Your answers will be assessed by the teacher and an
-    internal censor. Moreover, the answers will be grouped by subtasks
-    by an automated parser tool.  Therefore, it is very important that
-    you follow the instructions below.
-
-- **In the PDF document make sure that you start a new page for every
-    SUBTASK and you write a section title that includes the word
-    “Subtask”, specifying which SUBTASK you are addressing. See the
-    examples in the Latex and Word templates provided in the external web page.**
-
--   You can write your answers in Danish or in English.
-
--   <span>*Remember to justify all your statements!*</span> It is not
-    sufficient to present an answer, you must show how you found it. You
-    may refer to results from the lecture notes, the slides or the books
-    listed at the course web page. References to other books (outside
-    the course material) or to internet links are not accepted as valid
-    answers to a task.
-
--   You are allowed to use tools such as Python to assist you
-    the calculations. If you report source code in Python or other
-    languages, you must also report the output it produces
-    when executed.
-
--   Make sure you take security copies of your documents while the test
-    is in progress. It is your own responsibility in case of
-    technical issues.
-
-- Tools and tutorials for typesetting your answers are available
-    from the Public Web Page:\ Assessment $\rightarrow$ Preparation
-    for the take-home assignments. (This page below.)
-
--  The contribution of each subtask to the final evaluation is not
-  given but tasks are sorted by non-increasing impact on the final
-  grade.
-  
--->
-
 ## Templates
  
 <!--
@@ -128,9 +70,9 @@ to be handed in electronically in ItsLearning.
 
 ```
 \begin{align}
-   \label{ob} \max \; \quad & \sum_{j=1}^nc_jx_j  \\
-   \label{c1} \mbox{s.t.} \quad &\sum\limits_{j=1}^n a_{ij}x_j\geq b_i, \quad i=1,\ldots,m \\
-   \label{c2} &x_j \geq 0, \quad j=1,\ldots,n   
+ \label{ob} \max \; \quad & \sum_{j=1}^nc_jx_j  \\
+ \label{c1} \mbox{s.t.}\quad &\sum\limits_{j=1}^n a_{ij}x_j\geq b_i, \quad i=1,\ldots,m \\
+ \label{c2} &x_j \geq 0, \quad j=1,\ldots,n   
 \end{align}
 ```
 
@@ -182,3 +124,63 @@ $$\max  \sum_{j=1}^nc_jx_j$$
 $$\sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m$$
 
 $$x_j\geq 0, j=1,\ldots,n$$
+
+
+
+
+
+
+## Instructions on the front page of the test
+
+
+
+This is one of a series of tests that constitute the exam of the
+course. The test consists of a number of tasks subdivided into
+subtasks. The answers must be collected in a unique PDF document and are
+to be handed in electronically in ItsLearning.
+
+-   **The test is individual. You are not allowed to collaborate by any
+    means with other persons**.
+
+-   Keep your answers anonymous but make sure that you specify your
+    **SDU username** (the part in your SDU email address before the
+    @ symbol). Use the Latex or Word templates provided in the external
+    web page to see where to specify the SDU username (Assessment
+    $\rightarrow$ Preparation for the take-home assignments).
+
+- Your answers will be assessed by the teacher and an
+    internal censor. Moreover, the answers will be grouped by subtasks
+    by an automated parser tool.  Therefore, it is very important that
+    you follow the instructions below.
+
+- **In the PDF document make sure that you start a new page for every
+    SUBTASK and you write a section title that includes the word
+    “Subtask”, specifying which SUBTASK you are addressing. See the
+    examples in the Latex and Word templates provided in the external web page.**
+
+-   You can write your answers in Danish or in English.
+
+-   <span>*Remember to justify all your statements!*</span> It is not
+    sufficient to present an answer, you must show how you found it. You
+    may refer to results from the lecture notes, the slides or the books
+    listed at the course web page. References to other books (outside
+    the course material) or to internet links are not accepted as valid
+    answers to a task.
+
+-   You are allowed to use tools such as Python to assist you
+    the calculations. If you report source code in Python or other
+    languages, you must also report the output it produces
+    when executed.
+
+-   Make sure you take security copies of your documents while the test
+    is in progress. It is your own responsibility in case of
+    technical issues.
+
+- Tools and tutorials for typesetting your answers are available
+    from the Public Web Page:\ Tutorials $\rightarrow$ Preparation
+    for the take-home assignments. 
+
+-  The contribution of each subtask to the final evaluation is not
+  given but tasks are sorted by non-increasing impact on the final
+  grade.
+  
