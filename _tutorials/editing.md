@@ -133,7 +133,7 @@ $$x_j\geq 0, j=1,\ldots,n$$
 ## Instructions on the front page of the test
 
 
-
+[The following instructions may be subject to small changes.]
 This is one of a series of tests that constitute the exam of the
 course. The test consists of a number of tasks subdivided into
 subtasks. The answers must be collected in a unique PDF document and are
