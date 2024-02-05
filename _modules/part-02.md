@@ -17,10 +17,11 @@ Contents:
 Resources:
 - Reading: [F pp 33-48]; [MG ch 5]; [HL sc 4.1-4.4]
 - Last slides from Lecture 2
-<!--
-- Slides [PDF]({{ "/assets/slides/dm545_handout_lec03_simplex.pdf" | absolute_url }})
-- Notes: [LN]({{ "/assets/docs/dm545-main.pdf#simplexalgorithm1" | absolute_url }})
--->
+
+
+<!-- - Slides [PDF]({{ "/assets/slides/dm545_handout_lec03_simplex.pdf" | absolute_url }})
+- Notes: [LN]({{ "/assets/docs/dm545-main.pdf#simplexalgorithm1" | absolute_url }}) -->
+
 
 ### Feb 9: Lecture 4
 
@@ -31,11 +32,11 @@ Contents:
 Resources:
 - Reading: [F pp 48-58]; [MG ch 5]; [HL sc 4.5]; 
 
-<!--
-- [Slides]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})
+
+<!-- - [Slides]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})
 - [Compedium]({{ "/assets/sheets/dm545_sheet2_plus.pdf" | absolute_url }})
-- [LN]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})
--->
+- [LN]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }}) -->
+
 
 ### Feb 12: Exercise 2
 
