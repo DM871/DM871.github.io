@@ -9,6 +9,35 @@ categories: notes
 # Preparation for Take-Home Assignments 
 
 
+## Aiding tools
+
+<!-- -->
+
+-   Digital pens and scanners.
+
+
+-   [Python for matrix operations](https://github.com/DM871/dm871.github.io/blob/main/notebooks/Tutorial4Exam.ipynb) (modules "numpy" and "fractions")
+
+<!-- -->
+
+-   Alternatives to Python for matrix calculations: R, MATLAB,
+    Maple, etc.
+
+-   [WC] Stefan Waner and Steven R. Costenoble. [Simplex Method tool](https://www.zweigmedia.com/simplex/simplex.php?lang=en)
+
+-   Tools for plotting graphs: [LP
+    Grapher](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en),
+    grapher in Mac, [graph.tk](http://graph.tk), tikz in Latex.
+
+
+-   Text editor in VERBATIM mode (Unix: EMACS + ORG mode; Win:
+    Gusek, etc)
+
+
+
+
+
+
 ## Instructions on the front page of the test
 
 A few days before the exam the instructions as they will appear in the front page of the exam text will be published here.
@@ -80,11 +109,10 @@ to be handed in electronically in ItsLearning.
     - [OpenDocument](/assets/Templates/Template_Writerformat.odt)
 
 
-## Aiding tools
 
-<!-- -->
 
--   Digital pens and scanners.
+
+## LaTeX
 
 -   Mathematical formulas, if not handwritten, are best encoded
     in LaTeX. Typesetting them in Word takes too long.
@@ -94,28 +122,11 @@ to be handed in electronically in ItsLearning.
 <!-- [Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word) -->
 
 
--   [Python for matrix operations](https://github.com/DM871/dm871.github.io/blob/main/notebooks/Tutorial4Exam.ipynb) (modules "numpy" and "fractions")
-
-<!-- -->
-
--   Alternatives to Python for matrix calculations: R, MATLAB,
-    Maple, etc.
-
--   [WC] Stefan Waner and Steven R. Costenoble. [Simplex Method tool](https://www.zweigmedia.com/simplex/simplex.php?lang=en)
-
--   Text editor in VERBATIM mode (Unix: EMACS + ORG mode; Win:
-    Gusek, etc)
-
--   Tools for plotting graphs: [LP
-    Grapher](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en),
-    grapher in Mac, [graph.tk](http://graph.tk), tikz in Latex.
-
-
 -   To write ILP models in Latex you can use one of the following
     templates:
 
 
-```{.latex}
+```
 \begin{align}
    \label{ob} \max \; \quad & \sum_{j=1}^nc_jx_j  \\
    \label{c1} \mbox{s.t.} \quad &\sum\limits_{j=1}^n a_{ij}x_j\geq b_i, \quad i=1,\ldots,m \\
@@ -132,7 +143,7 @@ $$
 
 
 
-```{.latex}
+```
 \begin{equation}
  \begin{array}{lrll}
   \max & \sum\limits_{j=1}^nc_jx_j\\
@@ -151,7 +162,7 @@ $$
 $$
 
 
-```{.latex}
+```
 \begin{equation}
     \label{ob}
     \max  \sum_{j=1}^nc_jx_j\\
