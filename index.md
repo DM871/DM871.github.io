@@ -1,41 +1,16 @@
 ---
-title: Home
-layout: home
-nav_order: 1
-last_modified_date: 2024-01-29 16:22
+layout: page
+title: Announcements
+nav_exclude: false
+nav_order: 0
+description: A feed containing all of the class announcements.
 ---
 
+# Announcements
 
+<!-- Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`. -->
 
-## General information
-
-
-- Official course description: [DM545](https://odin.sdu.dk/sitecore/index.php?a=searchfagbesk&internkode=dm545&lang=en){:target="_blank"} and [DM871](https://odin.sdu.dk/sitecore/index.php?a=searchfagbesk&internkode=dm871&lang=en){:target="_blank"}
-
-- [ItsLearning](https://sdu.itslearning.com/main.aspx?CourseID=31866){:target="_blank"}
-
-
-
-
-## Teacher
-
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
 {% endfor %}
-
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Instructors
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-
-
-
-
-

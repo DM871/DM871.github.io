@@ -1,12 +1,11 @@
 <div class="announcement">
-  <h2>{{ page.title }}</h2>
+<!--  <h2>{{ page.title }}</h2> -->
   <span class="announcement-meta">
     {% if page.date %}
-    {{ page.date | date: '%b %e' }}
-    &middot;
+    {{ page.date | date: '%a, %b %d, %H:%M, %Y' }}  <!-- %b %e -->    
     {% endif %}
     {% assign minutes = content | strip_html | number_of_words | divided_by: 180.0 | round %}
-    {{ minutes }} min read
+    <!-- &middot; {{ minutes }} min read -->
   </span>
   <div>
     {{ content }}

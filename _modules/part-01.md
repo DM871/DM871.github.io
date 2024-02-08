@@ -28,8 +28,11 @@ Lecture resources:
 ### Feb 5: Exercise 1
 <!-- **Exercises**{: .label .label-purple }  -->
 
+- [Sheet 1][510]: LP Modeling. [Solutions][610]
 
-- [Sheet 1]({{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}): LP Modeling
+
+[510]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
+[610]: {{ "assets/sheets/sol/dm545_sheet1_sol.pdf" | absolute_url }}
 
 
 

@@ -26,6 +26,8 @@ url: "https://dm871.github.io"
 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "Dockerfile", "docker-compose.yml"]
 
+timezone: "Europe/Copenhagen"
+
 # Theme settings
 # remote_theme: just-the-docs/just-the-docs@v0.7.0
 theme: just-the-docs
@@ -58,9 +60,11 @@ collections:
   staffers:
   modules:
   #schedules:
-  announcements:
   tutorials:
     permalink: "/:collection/:path/"
+    output: true
+  announcements:
+    permalink: "/:path"
     output: true
 
 
