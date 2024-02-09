@@ -17,8 +17,8 @@ Contents:
 Resources:
 - Reading: [F pp 33-48]; [MG ch 5]; [HL sc 4.1-4.4]
 - Last slides from Lecture 2
-- Slides [PDF]({{ "/assets/slides/dm545_handout_lec03_simplex.pdf" | absolute_url }})
-- Notes: [LN, pp 15-25]({{ "/assets/docs/dm545-main.pdf#simplexalgorithm" | absolute_url }})
+- Slides: [PDF]({{ "/assets/slides/dm545_handout_lec03_simplex.pdf" | absolute_url }})
+- [LN, pp 15-25]: [PDF]({{ "/assets/docs/dm545-main.pdf#simplexalgorithm" | absolute_url }})
 
 
 ### Feb 9: Lecture 4
@@ -28,9 +28,9 @@ Contents:
 - Initialization
 
 Resources:
-- Slides [PDF]({{ "/assets/slides/dm545_handout_lec03_simplex.pdf" | absolute_url }})
-- Notes [LN]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})
-- Cyckling example: [sheet 2 compendium]({{ "/assets/sheets/sol/dm545_sheet2_plus_sol.pdf" | absolute_url }})
+- Slides: [PDF]({{ "/assets/slides/dm545_handout_lec03_simplex.pdf" | absolute_url }})
+- [LN]: [PDF]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})
+- Cyckling example: sheet 2 compendium: [PDF]({{ "/assets/sheets/sol/dm545_sheet2_plus_sol.pdf" | absolute_url }})
 - Reading: [F pp 48-58]; [MG ch 5]; [HL sc 4.5]; 
 
 
@@ -41,7 +41,7 @@ Resources:
 
 ### Feb 12: Exercise 2
 
-- [Sheet 2]({{ "/assets/sheets/dm545_sheet2.pdf" | absolute_url }})
+- Sheet 2: [PDF]({{ "/assets/sheets/dm545_sheet2.pdf" | absolute_url }})
 
 <!-- **Exercises**{: .label .label-purple } -->
 

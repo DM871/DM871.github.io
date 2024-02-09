@@ -11,8 +11,8 @@ Contents:
 - Linear programming problems and geometrical interpretation [HL ch 1,2,3] 
 
 Lecture resources:
-- Slides [PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})
-- Notes: [LN pp 1-7]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})
+- Slides: [PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})
+- [LN pp 1-7]: [PDF]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})
 
 ### Feb 2: Lecture 2
 
@@ -22,13 +22,13 @@ Contents:
 - Notation: polyhedral analysis [F ch 1, 2]; [MG ch 4]; [HL sc 5.1] 
 
 Lecture resources:
-- Slides [PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})
-- Notes: [LN pp 7-21]({{ "/assets/docs/dm545-main.pdf#diet" | absolute_url }})
+- Slides: [PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})
+- [LN pp 7-21]: [PDF]({{ "/assets/docs/dm545-main.pdf#diet" | absolute_url }})
 
 ### Feb 5: Exercise 1
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- [Sheet 1][510]: LP Modeling. [Solutions][610]
+- Sheet 1: LP Modeling: [PDF][510]. Solutions: [PDF][610]
 
 
 [510]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
