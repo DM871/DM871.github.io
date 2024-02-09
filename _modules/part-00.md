@@ -8,8 +8,8 @@ Before course start
 
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 0: Linear Algebra Review. [PDF][500] Solutions. [PDF]][600]
-- Sheet 0 python: Python for linear algebra. [PDF][501] Solutions. [PDF]][601]
+- Sheet 0: Linear Algebra Review: [[PDF][500]]. Solutions: [[PDF][600]]
+- Sheet 0 python: Python for linear algebra: [[PDF][501]]. Solutions: [[PDF][601]]
 
 
 [500]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
