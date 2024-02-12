@@ -10,6 +10,7 @@ Contents:
 - Derivation: 
   - Bounding approach
   - Multipliers approach
+- Duality Recipe
 - Theory: 
   - Weak duality theorem
   - Strong duality theorem
@@ -17,8 +18,9 @@ Contents:
 
 
 Resources:
-- Slides
-- Notes
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec05_duality.pdf" | absolute_url }})]
+- LN pp 36-: [[PDF]({{ "/assets/docs/dm545-main.pdf#duality" | absolute_url }})]
+
 
 ### Feb 15: Lecture 6
 
@@ -34,7 +36,7 @@ Resources:
 
 ### Feb 19: Exercise 3
 
-- Sheet 3
+- Sheet 3 [[PDF]({{ "/assets/sheets/dm545_sheet3.pdf" | absolute_url }})]
 
 <!-- **Exercises**{: .label .label-purple } -->
 
