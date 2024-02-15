@@ -19,7 +19,7 @@ Contents:
 
 Resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec05_duality.pdf" | absolute_url }})]
-- LN pp 36-: [[PDF]({{ "/assets/docs/dm545-main.pdf#duality" | absolute_url }})]
+- LN pp 36-52: [[PDF]({{ "/assets/docs/dm545-main.pdf#duality" | absolute_url }})]
 
 
 ### Feb 15: Lecture 6
@@ -30,8 +30,8 @@ Contents:
   - Sensitivity Analysis
 
 Resources:
-- Slides
-- Notes
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec06_duality-2.pdf" | absolute_url }})]
+- LN pp 52-: [[PDF]({{ "/assets/docs/dm545-main.pdf#lagrangian" | absolute_url }})]
   
 
 ### Feb 19: Exercise 3
