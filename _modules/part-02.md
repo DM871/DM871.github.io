@@ -1,6 +1,5 @@
 ---
 title: "Unit 2: Linear Programming: The Simplex Method" 
-parent: Classes
 ---
 
 

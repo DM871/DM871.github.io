@@ -24,7 +24,7 @@ url: "https://dm871.github.io"
 # url: "https://imada.sdu.dk/"
 # baseurl: "/u/marco/Teaching/AY2022-2023/DM871"
 
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "Dockerfile", "docker-compose.yml"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "Dockerfile", "docker-compose.yml", "drafts", "_drafts"]
 
 timezone: "Europe/Copenhagen"
 
@@ -59,6 +59,8 @@ last_edit_time_format: "%Y-%m-%d %H:%M" # %b %e %Y at %I:%M %p" # uses ruby's ti
 collections:
   staffers:
   modules:
+    permalink: "/:collection/:path/"
+    output: true
   #schedules:
   tutorials:
     permalink: "/:collection/:path/"
@@ -87,7 +89,7 @@ defaults:
       path: ''
       type: modules
     values:
-      layout: module  
+      layout: module_page  
   - scope:
       path: ''
       type: announcements
@@ -97,10 +99,10 @@ defaults:
 
 just_the_docs:
   collections:
-#    modules:
-#      name: Classes
-#      nav_fold: false
-#      # nav_exclude: true
+    modules:
+      name: Classes
+      nav_fold: true
+      # nav_exclude: true
     tutorials:
       name: Tutorials
       nav_fold: true
