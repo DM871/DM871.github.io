@@ -41,7 +41,13 @@ Resources:
 
 ### Feb 12: Exercise 2
 
-- Sheet 2: [[PDF]({{ "/assets/sheets/dm545_sheet2.pdf" | absolute_url }})]
+- Sheet 2: [[PDF][520]]; Solutions: [[PDF][620]]
+
+
+[520]: {{ "/assets/sheets/dm545_sheet2.pdf" | absolute_url }}
+[620]: {{ "assets/sheets/sol/dm545_sheet2_sol.pdf" | absolute_url }}
+
+
 
 <!-- **Exercises**{: .label .label-purple } -->
 

@@ -14,7 +14,6 @@ Contents:
 - Theory: 
   - Weak duality theorem
   - Strong duality theorem
-  - Complementary slackness theorems
 
 
 Resources:
@@ -25,13 +24,15 @@ Resources:
 ### Feb 15: Lecture 6
 
 Contents:
+- Complementary slackness theorems (Slides from lec 5)
+- Derivation:
+  - Lagrangian Relaxation approach
 - Applications: 
-  - Dual Simplex, 
-  - Sensitivity Analysis
+  - Dual Simplex
 
 Resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec06_duality-2.pdf" | absolute_url }})]
-- LN pp 52-: [[PDF]({{ "/assets/docs/dm545-main.pdf#lagrangian" | absolute_url }})]
+- LN pp 52-56: [[PDF]({{ "/assets/docs/dm545-main.pdf#lagrangian" | absolute_url }})]
   
 
 ### Feb 19: Exercise 3
