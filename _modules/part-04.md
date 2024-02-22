@@ -15,7 +15,11 @@ Resources:
 - LN pp 56-76 (excluded sec. 3.5): [[PDF]({{ "/assets/docs/dm545-main.pdf#sensitivity" | absolute_url }})]
 
 
-### Feb 23: Lecture 8 (see next unit)
+### Feb 23: Lecture 8 
+
+- Revised Simplex (see Lecture 7 above)
+- Continue in Unit 5
+
 
 ### Feb 26: Exercise 4
 

@@ -26,6 +26,14 @@ Resources:
 - LN
 
 
+
+
+### Mar 4: Exercise 5
+
+- Sheet 4 
+
+
+
 ### Feb 29: Lecture 10
 
 Contents:
@@ -34,11 +42,3 @@ Contents:
 Resources:
 - Slides
 - LN
-
-
-### Mar 4: Exercise 5
-
-- Sheet 4 
-
-
-### Mar 5: Lecture 11
