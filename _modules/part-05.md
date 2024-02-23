@@ -11,7 +11,7 @@ Contents:
 - Modeling Examples
 
 Resources:
-- Slides
+- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec08_ip-intro.pdf" | absolute_url }})]
 - LN
 
 ### Feb 27: Lecture 9
