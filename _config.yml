@@ -39,6 +39,8 @@ favicon_ico: "/assets/images/favicon.ico"
 aux_links:
   Marco Chiarandini:
     - 'https://imada.sdu.dk/u/marco'
+  Git repository:
+    - https://github.com/DM871/DM871.github.io/
   # Just the Class on GitHub:
   #  - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
