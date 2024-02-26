@@ -8,17 +8,23 @@ title: "Unit 4: Sensitivity Analysis and Revised Simplex"
 Contents:  
 - Economic Interpretation of Duality Theory (added to slides from lec 5)
 - Sensitivity Analysis (slides from lec 6)
-- Revised Simplex Method 
+
 
 Resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec07_revised.pdf" | absolute_url }})]
 - LN pp 56-76 (excluded sec. 3.5): [[PDF]({{ "/assets/docs/dm545-main.pdf#sensitivity" | absolute_url }})]
-
+- Reading about sensitivity analysis [HL sc 7.1, 4.7]
 
 ### Feb 23: Lecture 8 
 
 - Revised Simplex (see Lecture 7 above)
-- Continue in Unit 5
+- (Midway course evaluation)
+
+
+Resources:
+
+- LN [[PDF]({{ "/assets/dm545-main.pdf#revised" | absolute_url }}])
+- Reading about the revised simplex: [F, sec 4.3]; [[Ch ch 7](./assets/docs/Ch-Revised.pdf)]; [HL ch 5]; [Va 6.1-6.5]
 
 
 ### Feb 26: Exercise 4

@@ -3,18 +3,20 @@ title: "Unit 5: Integer Linear Programming"
 ---
 
 
-### Feb 23: Lecture 8
+### Feb 27: Lecture 8
 
 Contents:
-- (Midway course evaluation)
+
 - Integer Linear Programming - Overview
 - Modeling Examples
 
 Resources:
 - Slides [[PDF]({{ "/assets/slides/dm545_handout_lec08_ip-intro.pdf" | absolute_url }})]
-- LN
+- LN [[PDF]({{ "/assets/dm545-main.pdf#mipmodeling" | absolute_url }})]
+- Reading about Integer Programming: [F, ch 2, sc 6.1] 
+- Reading more modeling examples: [MG sc 6.4, 6.6, ch 3]; [Wo ch 1]; [Wi ch 9.1-9.5]                        
 
-### Feb 27: Lecture 9
+### Feb 29: Lecture 9
 
 Contents:  
 - More Modeling Examples
@@ -22,23 +24,15 @@ Contents:
 - Modeling tricks
 
 Resources:
-- Slides
-- LN
+- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec09_formulations.pdf" | absolute_url }})]
+- LN [sc 5.4, 6]; 
+- Reading about formulations and relaxations: [Wo ch 2]
 
 
 
 
 ### Mar 4: Exercise 5
 
-- Sheet 4 
+- Sheet 5 [[PDF][550]]
 
-
-
-### Feb 29: Lecture 10
-
-Contents:
-- Chvatal Gomory Cuts. Cutting Plane Algorithms
-
-Resources:
-- Slides
-- LN
+[550]: {{ "/assets/dm545_sheet5.pdf" | absolute_url }}

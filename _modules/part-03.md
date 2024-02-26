@@ -19,7 +19,8 @@ Contents:
 Resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec05_duality.pdf" | absolute_url }})]
 - LN pp 36-52: [[PDF]({{ "/assets/docs/dm545-main.pdf#duality" | absolute_url }})]
-
+- Reading about duality derivation: [F sec 5.1-5.5]  
+- Reading about the bounding approach and multipliers: [MG sc 6.1-6.3]; [HL sc 6.1-6.4] 
 
 ### Feb 15: Lecture 6
 
@@ -33,7 +34,7 @@ Contents:
 Resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec06_duality-2.pdf" | absolute_url }})]
 - LN pp 52-56: [[PDF]({{ "/assets/docs/dm545-main.pdf#lagrangian" | absolute_url }})]
-  
+- Reading about dual simplex: [F sec 5.6-5.8]; [Va sc 7.1]; [CL ch 2]    
 
 ### Feb 19: Exercise 3
 

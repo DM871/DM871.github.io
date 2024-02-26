@@ -30,7 +30,7 @@ Resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})]
 - LN pp 30-36: [[PDF]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})]
 - Cyckling example: sheet 2 compendium: [[PDF]({{ "/assets/sheets/sol/dm545_sheet2_plus_sol.pdf" | absolute_url }})]
-- Reading: [F pp 48-58]; [MG ch 5]; [HL sc 4.5]; 
+- Reading: [F pp 48-58]; [MG ch 5]; [HL sc 4.5]; [TR];
 
 
 <!-- - [Slides]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})
@@ -40,12 +40,12 @@ Resources:
 
 ### Feb 12: Exercise 2
 
-- Sheet 2: [[PDF][520]]; Solutions: [[PDF][620]]
+- Sheet 2: [[PDF][520]]; Solutions: [[PDF][620]]; [Notebook][622] 
 
 
 [520]: {{ "/assets/sheets/dm545_sheet2.pdf" | absolute_url }}
 [620]: {{ "assets/sheets/sol/dm545_sheet2_sol.pdf" | absolute_url }}
-
+[622]: {{ "https://github.com/DM871/dm871.github.io/blob/main/notebooks/sheet2.ipynb" | absolute_url }}
 
 
 <!-- **Exercises**{: .label .label-purple } -->
