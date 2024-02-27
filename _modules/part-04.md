@@ -23,7 +23,7 @@ Resources:
 
 Resources:
 
-- LN [[PDF]({{ "/assets/dm545-main.pdf#revised" | absolute_url }}])
+- LN [[PDF]({{ "/assets/dm545-main.pdf#revised" | absolute_url }})]
 - Reading about the revised simplex: [F, sec 4.3]; [[Ch ch 7](./assets/docs/Ch-Revised.pdf)]; [HL ch 5]; [Va 6.1-6.5]
 
 
