@@ -29,10 +29,11 @@ Resources:
 
 ### Feb 26: Exercise 4
 
-- Sheet 4. [[PDF][540]]
+- Sheet 4. [[PDF][540]]; Solutions: [[PDF][640]]
 
 [540]: {{ "/assets/sheets/dm545_sheet4.pdf" | absolute_url }}
 [640]: {{ "/assets/sheets/sol/dm545_sheet4_sol.pdf" | absolute_url }}
+
 
 <!-- **Exercises**{: .label .label-purple } -->
 
