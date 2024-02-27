@@ -24,7 +24,7 @@ Contents:
 
 Resources:
 
-- [LN ch 7];
+- LN [ch 7];
 - reading about Branch and Bound: [Wo ch 7]; [F sc 6.4]
 
 ### Monday, March 11: Exercise 6
