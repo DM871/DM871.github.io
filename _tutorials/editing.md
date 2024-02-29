@@ -34,7 +34,22 @@ categories: notes
     Gusek, etc)
 
 
+-  To include source code in Latex you can use the package listing.
+```  
+  \usepackage{listing}
+  \lstinputlisting[language=Python, firstline=1, lastline=8]{solution.py}
+```
 
+- To include output of source code in Latex you can use:
+```
+\begin{verbatim}
+...
+\end{verbatim}
+```
+there is also a package called `Verbatim` to customize the verbatim output.
+
+
+- In Word to include code choose a monospace font like Courier.
 
 
 ## Templates
@@ -133,54 +148,60 @@ $$x_j\geq 0, j=1,\ldots,n$$
 ## Instructions on the front page of the test
 
 
-[The following instructions may be subject to small changes.]
-This is one of a series of tests that constitute the exam of the
-course. The test consists of a number of tasks subdivided into
-subtasks. The answers must be collected in a unique PDF document and are
-to be handed in electronically in ItsLearning.
+[The following instructions will appear in the first assignment.]
+
+
+This is the first of two tests that constitute the exam of the course.
+The test consists of a number of tasks subdivided into subtasks. The
+answers must be collected in a unique PDF document and are to be handed
+in electronically in ItsLearning.
 
 -   **The test is individual. You are not allowed to collaborate by any
-    means with other persons**.
+    means with other persons or with chatbots.**
 
 -   Keep your answers anonymous but make sure that you specify your
-    **SDU username** (the part in your SDU email address before the
-    @ symbol). Use the Latex or Word templates provided in the external
-    web page to see where to specify the SDU username (Assessment
-    $\rightarrow$ Preparation for the take-home assignments).
+    **SDU username** (the part in your SDU email address before the @
+    symbol). Use the Latex or Word templates provided in the external
+    web page to see where to specify the SDU username (Tutorials
+    $\rightarrow$ Preparation for the Take-Home Assignments).
 
-- Your answers will be assessed by the teacher and an
-    internal censor. Moreover, the answers will be grouped by subtasks
-    by an automated parser tool.  Therefore, it is very important that
-    you follow the instructions below.
+-   Your answers will be assessed by the teacher and an internal censor.
+    Moreover, the answers will be grouped by subtasks by an automated
+    parser tool. Therefore, it is very important that you follow the
+    instructions below.
 
-- **In the PDF document make sure that you start a new page for every
+-   **In the PDF document make sure that you start a new page for every
     SUBTASK and you write a section title that includes the word
-    “Subtask”, specifying which SUBTASK you are addressing. See the
-    examples in the Latex and Word templates provided in the external web page.**
+    "Subtask", specifying which SUBTASK you are addressing. See the
+    examples in the Latex and Word templates provided in the external
+    web page.**
 
 -   You can write your answers in Danish or in English.
 
--   <span>*Remember to justify all your statements!*</span> It is not
-    sufficient to present an answer, you must show how you found it. You
+-   *Remember to justify all your statements!* It is not sufficient to
+    present an answer, you must also show briefly how you found it. You
     may refer to results from the lecture notes, the slides or the books
     listed at the course web page. References to other books (outside
     the course material) or to internet links are not accepted as valid
     answers to a task.
 
--   You are allowed to use tools such as Python to assist you
-    the calculations. If you report source code in Python or other
-    languages, you must also report the output it produces
-    when executed.
+-   You are allowed to use tools such as Python to assist you in the
+    calculations. If you report source code in Python or other
+    languages, you must also report the output it produces when
+    executed.
 
 -   Make sure you take security copies of your documents while the test
-    is in progress. It is your own responsibility in case of
-    technical issues.
+    is in progress. It is your own responsibility in case of technical
+    issues.
 
-- Tools and tutorials for typesetting your answers are available
-    from the Public Web Page:\ Tutorials $\rightarrow$ Preparation
-    for the take-home assignments. 
+-   Tools and tutorials for typesetting your answers are available from
+    the Public Web Page: Tutorials $\rightarrow$ Preparation for the
+    Take-Home Assignments.
 
--  The contribution of each subtask to the final evaluation is not
-  given but tasks are sorted by non-increasing impact on the final
-  grade.
-  
+-   The contribution of each subtask to the final evaluation is not
+    given but tasks are sorted by non-increasing impact on the final
+    grade.
+
+-   The test consists of tasks distributed on pages.
+
+
