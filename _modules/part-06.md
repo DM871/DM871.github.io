@@ -7,16 +7,17 @@ title: "Unit 6: Cutting Planes and Branch and Bound"
 ### Tuesday, March 5: Lecture 10
 
 Contents:
+- Formulations and Relaxations (see previous lecture for slides)
 - Chvatal Gomory Cuts. Cutting Plane Algorithms
 
 Resources:
-- Slides
-- LN [ch 6]; 
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec10_cut-alg.pdf"}})]
+- LN [ch 6]; [[PDF]({{ "/assets/docs/dm545-main.pdf" | absolute_url }})]
 - Reading about cutting planes: [Wo ch 8.1-8.6]; [F sc 6.3]
 
 
 
-### Thursday, March 5: Lecture 11
+### Thursday, March 7: Lecture 11
 
 Contents:
 
@@ -29,4 +30,6 @@ Resources:
 
 ### Monday, March 11: Exercise 6
 
-- Sheet 6
+- Sheet 6: [[PDF][560]]
+
+[560]: {{ "/assets/sheets/dm545_sheet6.pdf" | absolute_url }}
