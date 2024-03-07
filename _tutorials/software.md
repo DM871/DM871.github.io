@@ -80,11 +80,7 @@ with the following steps:
 
 - Choose one of the following:
 
-  - Install Python-MIP with `pip install mip` this should install also
-    the solver CBC. If you want to work with gurobi follow these local
-    [guidelines](gurobi.html) for the installation.
-
-  - Alternatively, install `gurobipy` (easiest alternative). Follow these
+  - Install `gurobipy` (easiest alternative). Follow these
     [guidelines](https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python-). The
     recommended installation is via `pip`.  This should install also
     gurobi. To make it work you need also a license from the gurobi web
@@ -93,6 +89,10 @@ with the following steps:
     and registered at the [gurobi page](https://www.gurobi.com) to get
     the license. See also this local page of [guidelines](gurobi.html)
     for a full installation and documentation of gurobi.
+
+  - Alternatively, install Python-MIP with `pip install mip` this should install also
+    the solver CBC. If you want to work with gurobi follow these local
+    [guidelines](gurobi.html) for the installation.
 
   - Alternatively, install SCIP following these
     [instructions](https://github.com/scipopt/PySCIPOpt/blob/master/INSTALL.md) (you need
@@ -106,7 +106,6 @@ with the following steps:
 We assume that you have previous knowledge of Python programming (a
 couple of links to review Python programming are available from the
 course Web Page).
-
 
 In the remaining part of this document you will be guided through some
 elements of the course revisited with the use of software. Although the
@@ -126,6 +125,9 @@ Continue this tutorial with the hands on parts:
   [Part 2](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_gurobi_2.ipynb)
   of this tutorial.
 
-- python-mip: in preparation
+- python-mip:  [Part 1](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_mip_1.ipynb)
+  and
+  [Part 2](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_mip_2.ipynb)
+  of this tutorial.
 
-- pyscipopt: [Part 1](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_scip_1.ipynb)
+- pyscipopt: [Part 1](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_scip_1.ipynb) and [Part 2](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_scip_2.ipynb)
