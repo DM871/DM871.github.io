@@ -86,7 +86,7 @@ with the following steps:
     gurobi. To make it work you need also a license from the gurobi web
     page. You could use the tools from
     [here](https://support.gurobi.com/hc/en-us/articles/360059842732)
-    and registered at the [gurobi page](https://www.gurobi.com) to get
+    and register at the [gurobi page](https://www.gurobi.com) to get
     the license. See also this local page of [guidelines](../gurobi/)
     for a full installation and documentation of gurobi.
 
