@@ -87,7 +87,7 @@ with the following steps:
     page. You could use the tools from
     [here](https://support.gurobi.com/hc/en-us/articles/360059842732)
     and registered at the [gurobi page](https://www.gurobi.com) to get
-    the license. See also this local page of [guidelines](../gurobi.html)
+    the license. See also this local page of [guidelines](../gurobi/)
     for a full installation and documentation of gurobi.
 
   - Alternatively, install Python-MIP with `pip install mip` this should install also

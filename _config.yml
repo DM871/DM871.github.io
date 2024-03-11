@@ -107,7 +107,7 @@ just_the_docs:
       # nav_exclude: true
     tutorials:
       name: Tutorials
-      nav_fold: true
+      nav_fold: false
 #      # nav_exclude: true
         
 
