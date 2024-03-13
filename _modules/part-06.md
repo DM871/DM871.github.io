@@ -32,6 +32,7 @@ Resources:
 
 ### Monday, March 11: Exercise 6
 
-- Sheet 6: [[PDF][560]]
+- Sheet 6: [[PDF][560]]; Solutions: [[PDF][660]]
 
 [560]: {{ "/assets/sheets/dm545_sheet6.pdf" | absolute_url }}
+[660]: {{ "/assets/sheets/sol/dm545_sheet6_sol.pdf" | absolute_url }}

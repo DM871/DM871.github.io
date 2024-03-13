@@ -29,7 +29,11 @@ Resources:
 
 ### Monday, March 18: Exercise 7
 
-- Sheet 7 on Total Unimodular Matrices and Network Flows
+
+- Sheet 7: [[PDF][570]]; Solutions: [[PDF][670]]
+
+[570]: {{ "/assets/sheets/dm545_sheet7.pdf" | absolute_url }}
+[670]: {{ "/assets/sheets/sol/dm545_sheet7_sol.pdf" | absolute_url }}
 
 
 
