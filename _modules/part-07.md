@@ -21,14 +21,16 @@ Resources:
 ### Thursday, March 14: Lecture 13
 
 Contents:
-- Network Flows: Applications;
-- Duality in Network Flows 
+- Network Flows
+- Applications
 
 Resources:
+- Slides from lecture 12
 - Reading material: [AMO-ch1]; [Wi-ch9]     
 
-### Monday, March 18: Exercise 7
 
+
+### Monday, March 18: Exercise 7
 
 - Sheet 7: [[PDF][570]]; 
 
@@ -48,10 +50,12 @@ Resources:
 ### Thursday, March 21: Lecture 13
 
 Contents:
-- Finishing duality in Network flows
+- Duality in Network flows
+- Network Simplex
 
 Resources:
 
+- Reading material: [AMO-ch1]; [Wi-ch9]    
 
 
 ### Friday, March 22: Exercise 8
