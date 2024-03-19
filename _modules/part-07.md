@@ -32,19 +32,21 @@ Resources:
 
 ### Monday, March 18: Exercise 7
 
-- Sheet 7: [[PDF][570]]; 
+- Sheet 7: [[PDF][7]]; Solutions: [[PDF][70]]
 
-[570]: {{ "/assets/sheets/dm545_sheet7.pdf" | absolute_url }}
-
+[7]: {{ "/assets/sheets/dm545_sheet7.pdf" | absolute_url }}
+[70]: {{ "/assets/sheets/sol/dm545_sheet7_sol.pdf" | absolute_url }}
 
 
 ### Tuesday, March 19: Lecture 12
 
 Contents:
-- Practice Workshop with ILP Software: Application Case   
+- Practice Workshop on ILP Software: Application Case   
 
 Resources:
-- Tutorial [GRB: Part 1, Part 2] 
+- Tutorial: MILP Software [GRB: Part 1, Part 2] 
+- Tutorial: MILP in SpreadSheets
+- [Factory Planning Case](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance.ipynb)
 
 
 ### Thursday, March 21: Lecture 13
@@ -60,7 +62,9 @@ Resources:
 
 ### Friday, March 22: Exercise 8
 
-- Sheet 8 on Modeling with Network Flows 
+- Sheet 8 on Modeling with Network Flows: [[PDF][8]]
+
+[8]: {{ "/assets/sheets/dm545_sheet8.pdf" | absolute_url }}
 
 
 
