@@ -56,7 +56,7 @@ Contents:
 - Network Simplex
 
 Resources:
-
+- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec13_net_simplex.pdf"}})]
 - Reading material: [AMO-ch1]; [Wi-ch9]    
 
 
