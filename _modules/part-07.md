@@ -38,7 +38,7 @@ Resources:
 [70]: {{ "/assets/sheets/sol/dm545_sheet7_sol.pdf" | absolute_url }}
 
 
-### Tuesday, March 19: Lecture 12
+### Tuesday, March 19: Lecture 14
 
 Contents:
 - Practice Workshop on ILP Software: Application Case   
@@ -46,10 +46,10 @@ Contents:
 Resources:
 - Tutorial: MILP Software [GRB: Part 1, Part 2] 
 - Tutorial: MILP in SpreadSheets
-- [Factory Planning Case](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance.ipynb)
+- [Factory Planning Case](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance.ipynb); [Solution](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance_sol.ipynb)
 
 
-### Thursday, March 21: Lecture 13
+### Thursday, March 21: Lecture 15
 
 Contents:
 - Duality in Network flows
