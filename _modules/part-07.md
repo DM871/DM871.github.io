@@ -62,10 +62,10 @@ Resources:
 
 ### Friday, March 22: Exercise 8
 
-- Sheet 8 on Modeling with Network Flows: [[PDF][8]]
+- Sheet 8 on Modeling with Network Flows: [[PDF][8]]; Solutions: [[PDF][80]]
 
 [8]: {{ "/assets/sheets/dm545_sheet8.pdf" | absolute_url }}
-
+[80]: {{ "/assets/sheets/sol/dm545_sheet8_sol.pdf" | absolute_url }}
 
 
 
