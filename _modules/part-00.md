@@ -1,5 +1,5 @@
 ---
-title: "Unit 0: Review of Elements from Linear Algebra"
+title: "Unit 0: Linear Algebra"
 ---
 
 ### Exercise 0 
@@ -8,7 +8,7 @@ First week
 
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 0: Linear Algebra Review: [[PDF][500]]. <!-- Solutions: [[PDF][600]] -->
+- Sheet 0: Review of Elements from Linear Algebra: [[PDF][500]]. <!-- Solutions: [[PDF][600]] -->
 - Sheet 0 python: Python for linear algebra: [[PDF][501]]. <!-- Solutions: [[PDF][601]] -->
 
 
