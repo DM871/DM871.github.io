@@ -12,7 +12,7 @@ last_modified_date: 2024-01-29T16:22:00
 
 - Official course description: [DM545](https://odin.sdu.dk/sitecore/index.php?a=searchfagbesk&internkode=dm545&lang=en){:target="_blank"} and [DM871](https://odin.sdu.dk/sitecore/index.php?a=searchfagbesk&internkode=dm871&lang=en){:target="_blank"}
 
-- [ItsLearning](https://sdu.itslearning.com/main.aspx?CourseID=31866){:target="_blank"}
+- [ItsLearning](https://sdu.itslearning.com/main.aspx?CourseID=35654){:target="_blank"}
 
 
 

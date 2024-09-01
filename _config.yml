@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DM545/DM871 (F24) 
+title: DM545/DM871 (E24) 
 email: marco@imada.sdu.dk
 description: "Linear and Integer Programming: Course on Mathematical Programming at Master Level in Computer Science at University of Southern Denmark"
 tagline: A Jekyll template for course websites
