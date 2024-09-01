@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://dm561.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://dm871.github.io"
 # url: "https://imada.sdu.dk/"
-# baseurl: "/u/marco/Teaching/AY2022-2023/DM871"
+# baseurl: "/u/marco/Teaching/AY2023-2024/DM871"
 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "Dockerfile", "docker-compose.yml", "drafts", "_drafts"]
 
