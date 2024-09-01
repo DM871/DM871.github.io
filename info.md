@@ -27,6 +27,8 @@ last_modified_date: 2024-01-29T16:22:00
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
+
+<!-- 
 ## Instructors
 
 {% for staffer in teaching_assistants %}
@@ -34,7 +36,7 @@ last_modified_date: 2024-01-29T16:22:00
 {% endfor %}
 {% endif %}
 
-
+-->
 
 
 
