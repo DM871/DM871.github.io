@@ -2,7 +2,7 @@
 title: "Unit 1: Introductory Notions"
 ---
 
-### Feb 1: Lecture 1 
+### Sept 2: Lecture 1 
 
 Contents: 
 - Course Organization
@@ -14,7 +14,7 @@ Lecture resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})]
 - LN pp 1-7: [[PDF]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})]
 
-### Feb 2: Lecture 2
+### Sept 5: Lecture 2
 
 Contents:
 - Diet problem 
@@ -25,10 +25,10 @@ Lecture resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})]
 - LN pp 7-21: [[PDF]({{ "/assets/docs/dm545-main.pdf#diet" | absolute_url }})]
 
-### Feb 5: Exercise 1
+### Sept 12: Exercise 1
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 1: LP Modeling: [[PDF][510]]. Solutions: [[PDF][610]]
+- Sheet 1: LP Modeling: [[PDF][510]]. <!-- Solutions: [[PDF][610]] -->
 
 
 [510]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}

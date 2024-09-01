@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 description: The weekly event schedule.
 nav_order: 2
-last_modified_date: 2024-02-01 17:22
+last_modified_date: 2024-01-09 17:22
 ---
 
 <!--
@@ -20,8 +20,8 @@ last_modified_date: 2024-02-01 17:22
 
 ## Official at MitSDU:
 
-- <a href="https://skemaplan.sdu.dk/N330047101/f24" target="_blank">DM545</a>
-- <a href="https://skemaplan.sdu.dk/N340030101/f24" target="_blank">DM871</a>
+- <a href="https://skemaplan.sdu.dk/N330047101/e24" target="_blank">DM545</a>
+- <a href="https://skemaplan.sdu.dk/N340030101/e24" target="_blank">DM871</a>
 
 
 
