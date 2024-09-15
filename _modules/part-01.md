@@ -26,10 +26,10 @@ Lecture resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})]
 - LN pp 7-21: [[PDF]({{ "/assets/docs/dm545-main.pdf#diet" | absolute_url }})]
 
-### Sept 12: Exercise 1
+### Sept 12: Exercise Class 1
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 1: LP Modeling: [[PDF][510]]. <!-- Solutions: [[PDF][610]] -->
+- Sheet 1: LP Modeling: [[PDF][510]]. Solutions: [[PDF][610]].
 
 
 [510]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
