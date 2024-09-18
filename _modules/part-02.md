@@ -27,9 +27,9 @@ Contents:
 - Initialization
 
 Resources:
-- Slides: <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})] -->
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})] 
 - LN pp 30-36: [[PDF]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})]
-<!-- - Cyckling example: sheet 2 compendium: [[PDF]({{ "/assets/sheets/sol/dm545_sheet2_plus_sol.pdf" | absolute_url }})] -->
+- Cyckling example: sheet 2 compendium: [[PDF]({{ "/assets/sheets/sol/dm545_sheet2_plus_sol.pdf" | absolute_url }})]
 - Reading: [F pp 48-58]; [MG ch 5]; [HL sc 4.5]; [TR];
 
 
