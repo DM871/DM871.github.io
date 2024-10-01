@@ -33,14 +33,14 @@ Resources:
 - Reading: [F pp 48-58]; [MG ch 5]; [HL sc 4.5]; [TR];
 
 
-<!-- - [Slides]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})
+- [Slides]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})
 - [Compedium]({{ "/assets/sheets/dm545_sheet2_plus.pdf" | absolute_url }})
-- [LN]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }}) -->
+- [LN]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})
 
 
 ### Sep 26: Exercise Class 2
 
-- Sheet 2: [[PDF][520]]. <!-- Solutions: [[PDF][620]]; [Notebook][622] -->
+- Sheet 2: [[PDF][520]]. Solutions: [[PDF][620]]; [Notebook][622] 
 
 
 [520]: {{ "/assets/sheets/dm545_sheet2.pdf" | absolute_url }}
