@@ -9,6 +9,9 @@ nav_order: 5
 
 - Ordinary exam: two, 24h, take-home tests
 
+  1. Test 1: November 13, 2024, from 7 to 6:59 (of the day after)
+  2. Test 2: December 18, 2024, from 7 to 6:59 (of the day after)
+
   <!-- - Test 1: Friday, March 1, 2024; from 7:00 to 6:59 --> 
    <!-- Wednesday, March 1, 2023; from 8:00 to 7:59 -->
   <!-- - Test 2: Tuesday, March 26, 2024; from 7:00 to 6:59 -->
