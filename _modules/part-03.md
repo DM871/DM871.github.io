@@ -17,7 +17,7 @@ Contents:
 
 
 Resources:
-- Slides <!-- >: [[PDF]({{ "/assets/slides/dm545_handout_lec05_duality.pdf" | absolute_url }})] -->
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec05_duality.pdf" | absolute_url }})]
 - LN pp 36-52: [[PDF]({{ "/assets/docs/dm545-main.pdf#duality" | absolute_url }})]
 - Reading about duality derivation: [F sec 5.1-5.5]  
 - Reading about the bounding approach and multipliers: [MG sc 6.1-6.3]; [HL sc 6.1-6.4] 
