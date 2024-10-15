@@ -13,6 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# required by github actions
+lsi: false
+safe: true
+source: .
+incremental: false
+
 title: DM545/DM871 (E24) 
 email: marco@imada.sdu.dk
 description: "Linear and Integer Programming: Course on Mathematical Programming at Master Level in Computer Science at University of Southern Denmark"
@@ -121,8 +128,13 @@ compress_html:
   profile: false
 
 
-
+highlighter: rouge
+gist:
+  noscript: false
 kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+#kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
