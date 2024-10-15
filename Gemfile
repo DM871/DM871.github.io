@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages'
 
-gem "just-the-docs"
-
-gem "webrick", "~> 1.8"
+group: :jekyll_plugins do
+    gem "just-the-docs"
+    gem "webrick", "~> 1.8"
+end
