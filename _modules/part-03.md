@@ -38,7 +38,7 @@ Resources:
 
 ### Oct 10: Exercise 3
 
-- Sheet 3: [[PDF][530]]; <!-- Solutions: [[PDF][630]] -->
+- Sheet 3: [[PDF][530]]; Solutions: [[PDF][630]] 
 
 [530]: {{ "/assets/sheets/dm545_sheet3.pdf" | absolute_url }}
 [630]: {{ "assets/sheets/sol/dm545_sheet3_sol.pdf" | absolute_url }}
