@@ -3,27 +3,33 @@ title: "Unit 4: Sensitivity Analysis and Revised Simplex"
 ---
 
 
-### Oct 21: Lecture 6b
+### Oct 21: Lecture 7
 
 Contents:  
 - Dual Simplex (slides from lec 6)
 - Sensitivity Analysis (slides from lec 6)
-
-Resources:
-- LN pp 56-76 (excluded sec. 3.5): [[PDF]({{ "/assets/docs/dm545-main.pdf#sensitivity" | absolute_url }})]
-- Reading about sensitivity analysis [HL sc 7.1, 4.7]
-
-
-### Oct 28: Lecture 7 
-
 - Revised Simplex 
 
 
 Resources:
-
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec07_revised.pdf" | absolute_url }})]
-- LN [[PDF]({{ "/assets/dm545-main.pdf#revised" | absolute_url }})]
+- LN pp 56-76 (excluded sec. 3.6): [[PDF]({{ "/assets/docs/dm545-main.pdf#sensitivity" | absolute_url }})]
+- Reading about sensitivity analysis [HL sc 7.1, 4.7]
 - Reading about the revised simplex: [F, sec 4.3]; [[Ch ch 7](./assets/docs/Ch-Revised.pdf)]; [HL ch 5]; [Va 6.1-6.5]
+
+
+### Oct 28: Lecture 8 
+
+- Revised Simplex (slides from lec 7)
+- Integer Linear Programming - Overview
+- Modeling Examples
+
+Resources:
+- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec08_ip-intro.pdf" | absolute_url }})]
+- LN [[PDF]({{ "/assets/docs/dm545-main.pdf#mipmodeling" | absolute_url }})]
+- Reading about Integer Programming: [F, ch 2, sc 6.1] 
+- Reading more modeling examples: [MG sc 6.4, 6.6, ch 3]; [Wo ch 1]; [Wi ch 9.1-9.5]
+
 
 
 ### Oct 30: Exercise 4
