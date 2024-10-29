@@ -36,9 +36,11 @@ Resources:
 
 - Sheet 4. [[PDF][540]]; <!-- Solutions: [[PDF][640]] -->
 
+- Sheet 4.5. [[PDF][541]]
+
 [540]: {{ "/assets/sheets/dm545_sheet4.pdf" | absolute_url }}
 [640]: {{ "/assets/sheets/sol/dm545_sheet4_sol.pdf" | absolute_url }}
-
+[541]: {{ "/assets/sheets/sol/dm545_sheet4_5.pdf" | absolute_url }}
 
 <!-- **Exercises**{: .label .label-purple } -->
 
