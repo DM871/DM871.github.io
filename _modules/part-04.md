@@ -34,7 +34,7 @@ Resources:
 
 ### Oct 30: Exercise 4
 
-- Sheet 4. [[PDF][540]]; <!-- Solutions: [[PDF][640]] -->
+- Sheet 4. [[PDF][540]]; Solutions: [[PDF][640]]
 
 - Sheet 4.5. [[PDF][541]]
 
