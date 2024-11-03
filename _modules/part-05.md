@@ -7,8 +7,7 @@ title: "Unit 5: Integer Linear Programming"
 
 Contents:
 
-- Integer Linear Programming - Overview
-- Modeling Examples
+- Modeling Examples in Integer Programming
 
 Resources:
 - Slides see lec 8 in Unit 4 <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec08_ip-intro.pdf" | absolute_url }})] -->
@@ -19,7 +18,6 @@ Resources:
 ### Oct 7: Lecture 9
 
 Contents:  
-- More Modeling Examples
 - Formulations and Relaxations
 - Modeling tricks
 
