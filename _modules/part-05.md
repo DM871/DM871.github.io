@@ -22,7 +22,7 @@ Contents:
 - Modeling tricks
 
 Resources:
-- Slides <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec09_formulations.pdf" | absolute_url }})] -->
+- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec09_formulations.pdf" | absolute_url }})]
 - LN [sc 5.4, 6]; 
 - Reading about formulations and relaxations: [Wo ch 2]
 
