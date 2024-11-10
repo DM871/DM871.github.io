@@ -3,7 +3,7 @@ title: "Unit 5: Integer Linear Programming"
 ---
 
 
-### Oct 4: Lecture 8 (continued)
+### Nov 4: Lecture 8 (continued)
 
 Contents:
 
@@ -15,7 +15,7 @@ Resources:
 - Reading about Integer Programming: [F, ch 2, sc 6.1] 
 - Reading more modeling examples: [MG sc 6.4, 6.6, ch 3]; [Wo ch 1]; [Wi ch 9.1-9.5]                        
 
-### Oct 7: Lecture 9
+### Nov 7: Lecture 9
 
 Contents:  
 - Formulations and Relaxations
@@ -29,7 +29,7 @@ Resources:
 
 
 
-### Oct 11: Exercise 5
+### Nov 11: Exercise 5
 
 - Sheet 5 [[PDF][550]]; <!-- Solutions: [[PDF][650]] -->
 
