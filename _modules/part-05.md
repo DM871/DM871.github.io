@@ -31,7 +31,7 @@ Resources:
 
 ### Nov 11: Exercise 5
 
-- Sheet 5 [[PDF][550]]; <!-- Solutions: [[PDF][650]] -->
+- Sheet 5 [[PDF][550]]; Solutions: [[PDF][650]]
 
 [550]: {{ "/assets/sheets/dm545_sheet5.pdf" | absolute_url }}
 [650]: {{ "/assets/sheets/sol/dm545_sheet5_sol.pdf" | absolute_url }}
