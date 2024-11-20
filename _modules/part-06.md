@@ -25,7 +25,7 @@ Contents:
 
 Resources:
 
-- Slides: <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec11_bnb.pdf"}})] -->
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec11_bnb.pdf"}})] 
 - LN [ch 7]  [[PDF]({{ "/assets/docs/dm545-main.pdf" | absolute_url }})];
 - reading about Branch and Bound: [Wo ch 7]; [F sc 6.4]
 - For DM871 Tutorial on MILP Software
