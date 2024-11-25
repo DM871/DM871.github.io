@@ -38,7 +38,7 @@ You find a list of commercial or free solvers in this
 solvers remain maybe 6-7 time faster than the main free/open-source
 solvers.
 
-The NEOS server ([www.neos-server.org](www.neos-server.org)) provides an
+The NEOS server ([www.neos-server.org](https://neos-server.org/neos/)) provides an
 infrastructure to upload an instantiated model and solve it remotedly.
 
 In this course, we use Python. In Python we will import a module, that
