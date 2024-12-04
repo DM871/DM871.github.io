@@ -21,10 +21,20 @@ Resources:
 Contents:
 - Network Flows
 - Applications
+- Tutorial: MILP Software [GRB: Part 1, Part 2] 
+- Tutorial: MILP in SpreadSheets
+- Duality in Network flows
+- Network Simplex
 
 Resources:
 - Slides from lecture 12
-- Reading material: [AMO-ch1]; [Wi-ch9]     
+- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec13_net_simplex.pdf"}})]
+- Reading material: [AMO-ch1]; [Wi-ch9]    
+- [Factory Planning Case](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance.ipynb)
+
+
+
+<!-- [Solution](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance_sol.ipynb) -->
 
 
 
