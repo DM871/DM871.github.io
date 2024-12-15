@@ -30,7 +30,7 @@ Resources:
 - Slides from lecture 12
 - Slides [[PDF]({{ "/assets/slides/dm545_handout_lec13_net_simplex.pdf"}})]
 - Reading material: [AMO-ch1]; [Wi-ch9]    
-- [Factory Planning Case](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance.ipynb), [Solution](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance_sol.ipynb) -->
+- [Factory Planning Case](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance.ipynb), [Solution](https://github.com/DM871/dm871.github.io/blob/main/notebooks/factory_planning_maintenance_sol.ipynb); [Solution2]({{ "assets/sheets/sol/dm545_fpmm_sol.pdf" }})
 
 
 
