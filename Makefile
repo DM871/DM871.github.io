@@ -23,20 +23,19 @@ update:
 	bundle update
 	#sudo certified-update
 
-serve2:
-	bundler exec jekyll build && bash -c 'cd _site && python -m http.server 3000'
-
-
-serve:
-	bundle exec jekyll serve --livereload --incremental 
-
 build:
-	bundle install
 	bundle exec jekyll build
 
 publish:
 	#bundle exec jekyll build --trace -d /home/marco/public_html/Teaching/AY2020-2021/DM871
-	cp -fr _site/* /home/marco/public_html/Teaching/AY2024-2025/DM871/
+	cp -fr _site/* /home/marco/public_html/Teaching/AY2023-2024/DM871/
+
+serve2:
+	bundler exec jekyll build && bash -c 'cd _site && python -m http.server 3000'
+
+serve:
+	bundle exec jekyll serve --livereload --incremental 
+
 
 clean:
 	rm -fr /home/marco/public_html/DM871/*

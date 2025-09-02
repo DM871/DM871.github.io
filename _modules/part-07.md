@@ -36,8 +36,8 @@ Resources:
 
 ### Monday, December 9: Exercise 7
 
-- Sheet 7: [[PDF][7]]; Solutions: [[PDF][70]] 
-- Sheet 8 on Modeling with Network Flows: [[PDF][8]]; Solutions: [[PDF][80]]
+- Sheet 7: [[PDF][7]]
+- Sheet 8 on Modeling with Network Flows: [[PDF][8]]
 
 [7]: {{ "/assets/sheets/dm545_sheet7.pdf" | absolute_url }}
 [70]: {{ "/assets/sheets/sol/dm545_sheet7_sol.pdf" | absolute_url }}

@@ -40,7 +40,7 @@ Resources:
 
 ### Sep 26: Exercise Class 2
 
-- Sheet 2: [[PDF][520]]. Solutions: [[PDF][620]]; [Notebook][622] 
+- Sheet 2: [[PDF][520]].
 
 
 [520]: {{ "/assets/sheets/dm545_sheet2.pdf" | absolute_url }}

@@ -8,8 +8,8 @@ First week
 
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 0: Review of Elements from Linear Algebra: [[PDF][500]]. Solutions: [[PDF][600]].
-- Sheet 0 python: Python for linear algebra: [[PDF][501]]. Solutions: [[PDF][601]].
+- Sheet 0: Review of Elements from Linear Algebra: [[PDF][500]]. 
+- Sheet 0 python: Python for linear algebra: [[PDF][501]]. 
 
 
 [500]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
