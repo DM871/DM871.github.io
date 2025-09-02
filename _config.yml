@@ -20,7 +20,7 @@ safe: true
 source: .
 incremental: false
 
-title: DM545/DM871 (E24) 
+title: DM545/DM871 (E25) 
 email: marco@imada.sdu.dk
 description: "Linear and Integer Programming: Course on Mathematical Programming at Master Level in Computer Science at University of Southern Denmark"
 tagline: Linear and Integer Programming 
