@@ -6,19 +6,28 @@ date:   2021-01-31 09:33:19 +0100
 categories: notes
 ---
 
-# Preparation for Take-Home Assignments 
+# Preparation for Take-Home Assignments
 
+
+## Templates
+ 
+The submissions of the assignments is digital. To digitalize handwritten text,
+formulas and graphs you can use the aiding tools listed below.
+
+-   Recommended answer templates: 
+    - [Latex](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
+    - [Word](/assets/Templates/Template_Wordformat.docx) 
+    - [OpenDocument](/assets/Templates/Template_Writerformat.odt)
 
 ## Aiding tools
 
-<!-- -->
-
 -   Digital pens and scanners.
 
-
--   [Python for matrix operations](https://github.com/DM871/dm871.github.io/blob/main/notebooks/Tutorial4Exam.ipynb) (modules "numpy" and "fractions")
-
-<!-- -->
+-   Python with module `numpy` for scripting solution approaches. Here, you find a
+    tutorial on how to use [Python for matrix
+    operations](https://github.com/DM871/dm871.github.io/blob/main/notebooks/Tutorial4Exam.ipynb)
+    (modules "numpy" and "fractions"). Where requested, MILP models can be
+    implemented and solved with one of the software listed in the tutorial: [MILP Software](/assets/tutorials/software.html).  
 
 -   Alternatives to Python for matrix calculations: R, MATLAB,
     Maple, etc.
@@ -29,10 +38,8 @@ categories: notes
     Grapher](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en),
     grapher in Mac, [graph.tk](http://graph.tk), tikz in Latex.
 
-
 -   Text editor in VERBATIM mode (Unix: EMACS + ORG mode; Win:
     Gusek, etc)
-
 
 -  To include source code in Latex you can use the package listing.
 ```  
@@ -48,40 +55,19 @@ categories: notes
 ```
 there is also a package called `Verbatim` to customize the verbatim output.
 
-
 - In Word to include code choose a monospace font like Courier.
-
-
-## Templates
- 
-<!--
-
-- The submissions at the assignments is digital. To digitalize handwritten text, formulas and graphs you can use a digital pen or a scanner.
-
--->
-
--   Recommended answer templates: 
-    - [Latex](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
-    - [Word](/assets/Templates/Template_Wordformat.docx) 
-    - [OpenDocument](/assets/Templates/Template_Writerformat.odt)
-
-
-
-
 
 ## LaTeX
 
 -   Mathematical formulas, if not handwritten, are best encoded
-    in LaTeX. Typesetting them in Word takes too long.
+    in LaTeX. Typesetting them in Word takes too long and the result is not good.
 
     -   [Latex symbol classifier](http://detexify.kirelabs.org/classify.html)
 
 <!-- [Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word) -->
 
-
 -   To write ILP models in Latex you can use one of the following
     templates:
-
 
 ```
 \begin{align}
@@ -140,15 +126,9 @@ $$\sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m$$
 
 $$x_j\geq 0, j=1,\ldots,n$$
 
-
-
-
-
-
 ## Instructions on the front page of the test
 
-
-[The following instructions will appear in the first assignment.]
+[The following instructions will appear in the text of the assignment.]
 
 
 This is the first of two tests that constitute the exam of the course.
