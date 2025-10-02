@@ -27,7 +27,7 @@ formulas and graphs you can use the aiding tools listed below.
     tutorial on how to use [Python for matrix
     operations](https://github.com/DM871/dm871.github.io/blob/main/notebooks/Tutorial4Exam.ipynb)
     (modules "numpy" and "fractions"). Where requested, MILP models can be
-    implemented and solved with one of the software listed in the tutorial: [MILP Software](/assets/tutorials/software.html).  
+    implemented and solved with one of the software listed in the tutorial: [MILP Software](/tutorials/software.html).  
 
 -   Alternatives to Python for matrix calculations: R, MATLAB,
     Maple, etc.
@@ -130,58 +130,54 @@ $$x_j\geq 0, j=1,\ldots,n$$
 
 [The following instructions will appear in the text of the assignment.]
 
+This assignment uniquely will determine your grade for the course. The test
+consists of a number of tasks subdivided into subtasks. The answers must be
+collected in a unique PDF document and are to be handed in electronically in
+ItsLearning or Digitaleksamen [This will be specified in the final text].
 
-This is the first of two tests that constitute the exam of the course.
-The test consists of a number of tasks subdivided into subtasks. The
-answers must be collected in a unique PDF document and are to be handed
-in electronically in ItsLearning.
+- *The test is individual*. You are not allowed to collaborate by any
+  means with other human or AI assistants.
 
--   **The test is individual. You are not allowed to collaborate by any
-    means with other persons or with chatbots.**
+- Read SDU rules on AI assistants: https://mitsdu.dk/en/aiatsdu. They apply to
+  this exam.
 
--   Keep your answers anonymous but make sure that you specify your
-    **SDU username** (the part in your SDU email address before the @
-    symbol). Use the Latex or Word templates provided in the external
-    web page to see where to specify the SDU username (Tutorials
-    $\rightarrow$ Preparation for the Take-Home Assignments).
+- Use the Latex or Word templates provided at this page
+    https://dm871.github.io/tutorials/editing.html 
+    
+- Do not write your full name in the answer document. Write your **SDU
+    username** (the part in your SDU email address before the @ symbol). Your
+    SDU username must appear in the header of everypage. The templates are set
+    up for this.
 
--   Your answers will be assessed by the teacher and an internal censor.
-    Moreover, the answers will be grouped by subtasks by an automated
-    parser tool. Therefore, it is very important that you follow the
-    instructions below.
+- Your answers will be assessed by the teacher and an internal censor. To
+  improve objectivity, the answers will be grouped by subtasks by an automated
+    parser tool.  Therefore, it is very important that you follow this rule:
 
--   **In the PDF document make sure that you start a new page for every
+    **In the PDF document make sure that you start a new page for every
     SUBTASK and you write a section title that includes the word
-    "Subtask", specifying which SUBTASK you are addressing. See the
-    examples in the Latex and Word templates provided in the external
-    web page.**
+    “Subtask”, specifying which SUBTASK you are addressing. The templates contain
+    an example of how to do this. **
 
--   You can write your answers in Danish or in English.
+- You can write your answers in Danish or in English.
+  
+- *Justify all your statements!* It is not sufficient to present an answer, you
+  must also briefly argue how you found it. You may refer to results from the
+  lecture notes, the slides or the books listed at the course web page.
+  References to other books (outside the course material) or to internet links
+  are not accepted as valid answers to a task.
+  
+- You are allowed to use scientific programming tools such as Python with Numpy
+  and a MILP solver to assist you in the calculations. If you use Python (or
+  other languages) you must report the source code and the output it produces
+  when executed.
 
--   *Remember to justify all your statements!* It is not sufficient to
-    present an answer, you must also show briefly how you found it. You
-    may refer to results from the lecture notes, the slides or the books
-    listed at the course web page. References to other books (outside
-    the course material) or to internet links are not accepted as valid
-    answers to a task.
+- Make sure you take security copies of your documents while the
+  test is in progress. It is your own responsibility in case of
+  technical issues.
 
--   You are allowed to use tools such as Python to assist you in the
-    calculations. If you report source code in Python or other
-    languages, you must also report the output it produces when
-    executed.
+- Tools and tutorials for typesetting your answers are available from the
+  Tutorial: "Preparation for the Take-Home Assignments" published during the
+    course.
 
--   Make sure you take security copies of your documents while the test
-    is in progress. It is your own responsibility in case of technical
-    issues.
-
--   Tools and tutorials for typesetting your answers are available from
-    the Public Web Page: Tutorials $\rightarrow$ Preparation for the
-    Take-Home Assignments.
-
--   The contribution of each subtask to the final evaluation is not
-    given but tasks are sorted by non-increasing impact on the final
-    grade.
-
--   The test consists of tasks distributed on pages.
-
-
+- The contribution of each subtask to the final evaluation is
+  intentionally not given.
