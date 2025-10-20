@@ -130,10 +130,12 @@ $$x_j\geq 0, j=1,\ldots,n$$
 
 [The following instructions will appear in the text of the assignment.]
 
-This assignment uniquely will determine your grade for the course. The test
-consists of a number of tasks subdivided into subtasks. The answers must be
-collected in a unique PDF document and are to be handed in electronically in
-ItsLearning or Digitaleksamen [This will be specified in the final text].
+- This assignment uniquely will determine your grade for the course. The test
+  consists of a number of tasks subdivided into subtasks. 
+
+- The answers must be collected in a unique PDF document and are to be handed in
+  electronically in ItsLearning or Digitaleksamen [This will be specified in the
+  final text].
 
 - *The test is individual*. You are not allowed to collaborate by any
   means with other human or AI assistants.
