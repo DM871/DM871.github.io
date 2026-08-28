@@ -28,7 +28,7 @@ build:
 
 publish:
 	#bundle exec jekyll build --trace -d /home/marco/public_html/Teaching/AY2020-2021/DM871
-	cp -fr _site/* /home/marco/public_html/Teaching/AY2023-2024/DM871/
+	cp -fr _site/* /home/marco/public_html/Teaching/AY2025-2026/DM871/
 
 serve2:
 	bundler exec jekyll build && bash -c 'cd _site && python -m http.server 3000'

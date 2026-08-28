@@ -20,7 +20,7 @@ safe: true
 source: .
 incremental: false
 
-title: DM545/DM871 (E25) 
+title: DM545/DM871 (E26) 
 email: marco@imada.sdu.dk
 description: "Linear and Integer Programming: Course on Mathematical Programming at Master Level in Computer Science at University of Southern Denmark"
 tagline: Linear and Integer Programming 
@@ -28,8 +28,8 @@ author: Marco Chiarandini
 # url: "https://dm561.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://dm871.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://imada.sdu.dk"
-# baseurl: "/u/marco/Teaching/AY2024-2025/DM871"
+#url: "https://imada.sdu.dk"
+#baseurl: "/u/marco/Teaching/AY2025-2026/DM871"
 
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "Dockerfile", "docker-compose.yml", "drafts", "_drafts"]
 

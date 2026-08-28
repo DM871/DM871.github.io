@@ -12,7 +12,7 @@ Contents:
 - Network Flows 
 
 Resources:
-- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec12_netflow.pdf"}})]
+- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec12_netflow.pdf" | absolute_url }})]
 - Reading material: [F sc 6.2]; [Wo sec. 3.2-3.5]
 
 
