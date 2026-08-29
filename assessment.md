@@ -7,10 +7,17 @@ nav_order: 5
 
 
 
-- Ordinary exam: two, 24h, take-home tests
+- Ordinary exam:
+    DM871: assignment in the second half of the course
+    DM545/DM871: written exam, 3 hours on January 11th
+
+
+
+  <!-- two, 24h, take-home tests
 
   1. Test 1: November 13, 2024, from 7 to 6:59 (of the day after)
   2. Test 2: December 18, 2024, from 7 to 6:59 (of the day after)
+  -->
 
   <!-- - Test 1: Friday, March 1, 2024; from 7:00 to 6:59 --> 
    <!-- Wednesday, March 1, 2023; from 8:00 to 7:59 -->
@@ -18,11 +25,13 @@ nav_order: 5
   <!-- Monday, April 3, 2023; from 8:00 to 7:59  -->
 
 
-- Reexam: two days take-home exam in March/April.
+- Reexam: 
+    DM871: assignment
+    DM545/DM871: written exam, 3 hours on February 22nd
 
-
+<!--
 - Preparation for the take-home assignments: see under Tutorials 
- 
+-->
 
 
 

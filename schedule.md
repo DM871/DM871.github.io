@@ -31,12 +31,14 @@ last_modified_date: 2026-08-30 17:22
 
 ## Condensed view
 
-DM545
+DM545 section M1:
 
 {% include dm545_m1.html %}
 
-{% include dm545_h1.html %}
-
-DM871
+DM545 section H1 and DM871 section H1:
 
 {% include dm871_h1.html %}
+
+Joint view:
+
+{% include dm545_h1.html %}
