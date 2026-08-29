@@ -2,9 +2,7 @@
 title: "Unit 0: Linear Algebra"
 ---
 
-### Exercise 0 
-
-First week 
+### Exercise class 0 
 
 <!-- **Exercises**{: .label .label-purple }  -->
 
