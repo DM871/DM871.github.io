@@ -16,7 +16,11 @@
 
 # required by github actions
 lsi: false
-safe: true
+# NOTE: do NOT set `safe: true`. In safe mode Jekyll refuses to load any plugin
+# gem that is not in `whitelist`, which breaks just-the-docs' use of the
+# `include_cached` tag from jekyll-include-cache. We build with our own
+# GitHub Actions workflow (not the legacy github-pages gem), so safe mode is
+# neither required nor desirable.
 source: .
 incremental: false
 
@@ -138,3 +142,13 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import, global-builtin, color-functions]

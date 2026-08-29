@@ -1,9 +1,8 @@
-source 'https://rubygems.org'
-gem 'github-pages'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-    gem "just-the-docs", "0.10.0"
-    gem "webrick", "~> 1.8"
-    gem "jekyll-include-cache"
-    gem "jekyll-seo-tag"
-end
+gem "jekyll", "~> 4.3"
+gem "jekyll-include-cache"
+gem "jekyll-seo-tag"
+gem "webrick"
+
+gem "just-the-docs", "~> 0.7"
