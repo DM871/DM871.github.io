@@ -6,6 +6,10 @@ nav_order: 5
 ---
 
 
+<img src="{{ '/assets/images/polytope2.png' | absolute_url }}" height="180" alt="A polytope">
+
+
+## Student Assessment
 
 - Ordinary exam:
     DM871: assignment in the second half of the course

@@ -15,10 +15,12 @@ last_modified_date: 2026-08-30 17:22
 -->
 
 
-# Schedule
+<img src="{{ '/assets/images/polytope2.png' | absolute_url }}" height="180" alt="A polytope">
+
+## Schedule
 
 
-## Official at MitSDU:
+### Official at MitSDU:
 
 - <a href="https://skemaplan.sdu.dk/N330047101/e26" target="_blank">DM545</a>
 - <a href="https://skemaplan.sdu.dk/N340030101/e26" target="_blank">DM871</a>
@@ -29,7 +31,7 @@ last_modified_date: 2026-08-30 17:22
 
 
 
-## Condensed view
+### Alternative view
 
 DM545 section M1:
 

@@ -6,6 +6,7 @@ last_modified_date: 2024-01-29T16:22:00
 ---
 
 
+<img src="{{ '/assets/images/polytope2.png' | absolute_url }}" height="180" alt="A polytope">
 
 ## General information
 
