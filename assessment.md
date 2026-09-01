@@ -12,7 +12,9 @@ nav_order: 5
 ## Student Assessment
 
 - Ordinary exam:
+  
     DM871: assignment in the second half of the course
+  
     DM545/DM871: written exam, 3 hours on January 11th
 
 
@@ -30,7 +32,9 @@ nav_order: 5
 
 
 - Reexam: 
+
     DM871: assignment
+
     DM545/DM871: written exam, 3 hours on February 22nd
 
 <!--

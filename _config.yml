@@ -74,7 +74,10 @@ collections:
   modules:
     permalink: "/:collection/:path/"
     output: true
-  #schedules:
+  sheets:
+    permalink: "/:collection/:path"
+    output: true
+  schedules:
   tutorials:
     permalink: "/:collection/:path/"
     output: true
@@ -108,6 +111,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: sheets
+    values:
+      layout: module_page
 
 
 just_the_docs:
@@ -120,6 +128,9 @@ just_the_docs:
       name: Tutorials
       nav_fold: false
 #      # nav_exclude: true
+    sheets:
+      name: Sheets
+      nav_exclude: true
         
 
 

@@ -11,8 +11,10 @@ Contents:
 - Linear programming problems and geometrical interpretation [HL ch 1,2,3] 
 
 Lecture resources:
-- Slides: <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})] -->
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})]
+- [Case]({{ "sheets/case01.html" | absolute_url }})
 - LN pp 1-7: [[PDF]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})]
+
 
 ### Week 36: Lecture 2
 
