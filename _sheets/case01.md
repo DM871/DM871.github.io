@@ -17,7 +17,7 @@ and 90 hectoliters are available, respectively. Table 1 shows the cost (in €)
 to transport one hectolitre of mineral water from each factory to each bottling
 plant.
 
-|Napoli| Roma| Frosinone|
+||Napoli| Roma| Frosinone|
 |--|--|--|--|
 |Viterbo |250 |100 |85|
 |Castelforte |120 |80 |150|
