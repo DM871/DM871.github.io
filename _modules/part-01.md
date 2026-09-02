@@ -12,9 +12,9 @@ Contents:
 
 Lecture resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})]
-- [Case]({{ "sheets/case01.html" | absolute_url }})
+- [Case: Transporting Mineral Water]({{ "sheets/case01.html" | absolute_url }})
 - LN pp 1-7: [[PDF]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})]
-
+- [Poll](https://docs.google.com/spreadsheets/d/1g3BQ-hQni8uHjkud56di3DB9fAP0n-4gxA2TMhe1i3w/edit?usp=sharing)
 
 ### Week 36: Lecture 2
 
