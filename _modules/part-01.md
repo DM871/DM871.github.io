@@ -9,7 +9,7 @@ Contents:
 - Case work
 
 Lecture resources:
-- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})]
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout-lec01_intro.pdf" | absolute_url }})]
 - [Case: Transporting Mineral Water]({{ "sheets/case01.html" | absolute_url }})
 - LN pp 1-7: [[PDF]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})]
 
@@ -39,13 +39,11 @@ Lecture resources:
 ### Week 37: Exercise Class 1
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 1: LP Modeling
-
-<!-- : [[PDF][510]]. -->
+- Sheet 1: LP Modeling [[PDF][510]]. 
 
 
-[510]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
-[610]: {{ "assets/sheets/sol/dm545_sheet1_sol.pdf" | absolute_url }}
+[510]: {{ "/assets/sheets/dm545-sheet1.pdf" | absolute_url }}
+[610]: {{ "assets/sheets/sol/dm545-sheet1_sol.pdf" | absolute_url }}
 
 
 
