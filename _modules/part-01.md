@@ -2,37 +2,38 @@
 title: "Unit 1: Introductory Notions"
 ---
 
-### Week 36: Lecture 1 
+### Week 36: Class 1 
 
 Contents: 
 - Course Organization
-- Introductory elements: Notation, Graphs, Algebra  [MG ch 1,2, Appendix]
-- Resource allocation in factory planning  
-- Linear programming problems and geometrical interpretation [HL ch 1,2,3] 
+- Case work
 
 Lecture resources:
 - Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec01_intro.pdf" | absolute_url }})]
 - [Case: Transporting Mineral Water]({{ "sheets/case01.html" | absolute_url }})
 - LN pp 1-7: [[PDF]({{ "/assets/docs/dm545-main.pdf#intro" | absolute_url }})]
-- [Poll](https://docs.google.com/spreadsheets/d/1g3BQ-hQni8uHjkud56di3DB9fAP0n-4gxA2TMhe1i3w/edit?usp=sharing)
 
-### Week 36: Lecture 2
+### Week 36: Class 2
 
 Contents:
+- Introductory elements: Notation, Graphs, Algebra  [MG ch 1,2, Appendix]
+- Resource allocation in factory planning  
+- Linear programming problems and geometrical interpretation [HL ch 1,2,3] 
+
+Resources:
+- slides from Class 1
+- [Poll on section scheduling](https://docs.google.com/spreadsheets/d/1g3BQ-hQni8uHjkud56di3DB9fAP0n-4gxA2TMhe1i3w/edit?usp=sharing)
+
+
+### Week 37: Class 3
+
 - Diet problem 
 - Fourier & Moutzkin elimination [Da]; [FM] 
 - Notation: polyhedral analysis [F ch 1, 2]; [MG ch 4]; [HL sc 5.1] 
 
-
 Lecture resources:
 - Slides: <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec02_intro-2.pdf" | absolute_url }})] -->
 - LN pp 7-21: [[PDF]({{ "/assets/docs/dm545-main.pdf#diet" | absolute_url }})]
-
-
-
-### Week 37: Lecture 3
-
-
 
 
 ### Week 37: Exercise Class 1

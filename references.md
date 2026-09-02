@@ -35,7 +35,7 @@ nav_order: 4
 
 - [Ch] V. Chvatal. Linear Programming. W.H.Freeman, 1983
 
-- [Va] R. Vanderbei. [Linear Programming: Foundations and Extensions](http://dx.doi.org/10.1007/978-0-387-74388-2). Springer US, 2008
+- [Va] R. Vanderbei. [Linear Programming: Foundations and Extensions](https://doi.org/10.1007/978-3-030-39415-8). Springer US, 2008
 
 - [AMO] R.K. Ahuja, T.L. Magnanti and J. Orlin. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993
 
