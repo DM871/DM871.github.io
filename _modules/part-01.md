@@ -39,11 +39,11 @@ Lecture resources:
 ### Week 37: Exercise Class 1
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 1: LP Modeling [[PDF][510]]. 
+- Sheet 1: LP Modeling [[PDF][510]]. [[Solutions][610]]
 
 
 [510]: {{ "/assets/sheets/dm545-sheet1.pdf" | absolute_url }}
-[610]: {{ "assets/sheets/sol/dm545-sheet1_sol.pdf" | absolute_url }}
+[610]: {{ "assets/sheets/sol/dm545-sheet1.pdf" | absolute_url }}
 
 
 

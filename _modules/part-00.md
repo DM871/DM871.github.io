@@ -6,12 +6,12 @@ title: "Unit 0: Linear Algebra"
 
 <!-- **Exercises**{: .label .label-purple }  -->
 
-- Sheet 0: Review of Elements from Linear Algebra: [[PDF][500]]. 
-- Sheet 0 python: Python for linear algebra: [[PDF][501]]. 
+- Sheet 0: Review of Elements from Linear Algebra: [[PDF][500]]. [[Solutions][600]]
+- Sheet 0 python: Python for linear algebra: [[PDF][501]].  [[Solutions][601]]
 
 
-[500]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
-[501]: {{ "/assets/sheets/dm545_sheet0_python.pdf" | absolute_url }}
-[600]: {{ "assets/sheets/sol/dm545_sheet0_sol.pdf" | absolute_url }}
-[601]: {{ "assets/sheets/sol/dm545_sheet0_python_sol.pdf" | absolute_url }}  
+[500]: {{ "/assets/sheets/dm545-sheet0.pdf" | absolute_url }}
+[501]: {{ "/assets/sheets/dm545-sheet0_python.pdf" | absolute_url }}
+[600]: {{ "assets/sheets/sol/dm545-sheet0.pdf" | absolute_url }}
+[601]: {{ "assets/sheets/sol/dm545-sheet0_python.pdf" | absolute_url }}  
 
