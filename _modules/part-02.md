@@ -16,7 +16,7 @@ Contents:
 Resources:
 - Reading: [F pp 33-48]; [MG ch 5]; [HL sc 4.1-4.4]
 - Last slides from Lecture 2
-- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec03_simplex.pdf" | absolute_url }})]
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout-lec03_simplex.pdf" | absolute_url }})]
 - LN pp 15-25: [[PDF]({{ "/assets/docs/dm545-main.pdf#simplexalgorithm" | absolute_url }})]
 
 
