@@ -24,6 +24,8 @@ description: A feed containing all of the class announcements.
 
 To be completed during the course
 
+All [slides in one file]({{ "/assets/slides/dm545_handout-main.pdf" | absolute_url }}).
+
 ## Announcements
 
 
