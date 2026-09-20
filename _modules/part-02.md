@@ -23,7 +23,7 @@ Resources:
 ### Week 38: Exercise Class 2
 
 
-- Sheet 2: [[PDF][520]].
+- Sheet 2: [[PDF][520]]. [[Solutions][620]]. [[Solution code][622]]
 
 
 [520]: {{ "/assets/sheets/dm545-sheet2.pdf" | absolute_url }}
@@ -40,21 +40,18 @@ Contents:
 
 Resources:
 
-<!--
-
-- Slides: [[PDF]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})] 
+- Slides: [[PDF]({{ "/assets/slides/dm545_handout-lec04_simplex-2.pdf" | absolute_url }})] 
 - LN pp 30-36: [[PDF]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})]
-- Cyckling example: sheet 2 compendium: [[PDF]({{ "/assets/sheets/sol/dm545_sheet2_plus_sol.pdf" | absolute_url }})]
+- Cyckling example: sheet 2 compendium: [[PDF]({{ "/assets/sheets/sol/dm545-sheet2_plus.pdf" | absolute_url }})]
 - Reading: [F pp 48-58]; [MG ch 5]; [HL sc 4.5]; [TR];
 
 
-- [Slides]({{ "/assets/slides/dm545_handout_lec04_simplex-2.pdf" | absolute_url }})
-- [Compedium]({{ "/assets/sheets/dm545_sheet2_plus.pdf" | absolute_url }})
-- [LN]({{ "/assets/docs/dm545-main.pdf#exceptions" | absolute_url }})
-
--->
 
 ### Week 39: Exercise Class 3
+
+
+
+- Sheet 3: [[PDF][530]].
 
 
 <!-- **Exercises**{: .label .label-purple } -->
@@ -73,10 +70,5 @@ Resources:
 [50]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
 [500]: {{ "/assets/sheets/dm545_sheet0_python.pdf" | absolute_url }}
 [51]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
-[522]: {{ "/assets/dm545_sheet2_plus.pdf" | absolute_url }}
-[53]: {{ "/assets/dm545_sheet3.pdf" | absolute_url }}
-[54]: {{ "/assets/dm545_sheet4.pdf" | absolute_url }}
-[55]: {{ "/assets/dm545_sheet5.pdf" | absolute_url }}
-[56]: {{ "/assets/dm545_sheet6.pdf" | absolute_url }}
-[57]: {{ "/assets/dm545_sheet7.pdf" | absolute_url }}
-[58]: {{ "/assets/dm545_sheet8.pdf" | absolute_url }}
+[522]: {{ "/assets/dm545-sheet2_plus.pdf" | absolute_url }}
+[530]: {{ "/assets/dm545-sheet3.pdf" | absolute_url }}

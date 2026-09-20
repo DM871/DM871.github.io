@@ -8,6 +8,7 @@ categories: notes
 
 # Preparation for the Written Exam
 
+While all aiding tools are allowed at the written exam, the **use of internet is not allowed**! 
 
 ## Templates
  
@@ -15,6 +16,7 @@ The submissions is digital. To digitalize your answers, made of text, formulas
 and graphs you can use the aiding tools listed below.
 
 -   Recommended answer templates: 
+    - Typst (TBD)
     - [Latex](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
     - [Word](/assets/Templates/Template_Wordformat.docx) 
     - [OpenDocument](/assets/Templates/Template_Writerformat.odt)
@@ -58,6 +60,44 @@ and graphs you can use the aiding tools listed below.
 there is also a package called `Verbatim` to customize the verbatim output.
 
 - In Word to include code choose a monospace font like Courier.
+
+
+## Typst
+
+```{typst}
+#set math.equation(numbering: "(1)")
+
+$
+  max quad & sum_(j=1)^n c_j x_j \
+  "s.t." quad & sum_(j=1)^n a_(i j) x_j >= b_i, quad i = 1, dots.h, m \
+  & x_j >= 0, quad j = 1, dots.h, n
+$ <ob>
+```
+
+Native Typst gives one number per block equation, not one per line. To number each line and label them separately (as align does), use the equate package:
+
+```{typst}
+#import "@preview/equate:0.3.2": equate   // use the latest version from Typst Universe
+#show: equate
+#set math.equation(numbering: "(1)")
+
+$
+  max quad & sum_(j=1)^n c_j x_j <ob> \
+  "s.t." quad & sum_(j=1)^n a_(i j) x_j >= b_i, quad i = 1, dots.h, m <c1> \
+  & x_j >= 0, quad j = 1, dots.h, n <c2>
+$
+```
+
+Alternatively, it is possible to write three separate equations
+```{typst}
+$ max sum_(j=1)^n c_j x_j $ <ob>
+
+$ sum_(j=1)^n a_(i j) x_j <= b_i, quad i = 1, dots.h, m $ <c1>
+
+$ x_j >= 0, quad j = 1, dots.h, n $ <c2>
+```
+
+For those used to LaTeX, `\geq` becomes `>=`, `\leq` becomes `<=`, `\ldots` becomes `dots.h`, `\mbox{s.t.}` becomes "s.t.", `\quad` becomes `quad`, and `\\` becomes `\`.
 
 ## LaTeX
 
@@ -127,6 +167,9 @@ $$\max  \sum_{j=1}^nc_jx_j$$
 $$\sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m$$
 
 $$x_j\geq 0, j=1,\ldots,n$$
+
+
+
 
 ## Instructions on the front page of the test
 
