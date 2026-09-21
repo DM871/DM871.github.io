@@ -17,7 +17,9 @@ and graphs you can use the aiding tools listed below.
 
 -   Recommended answer templates: 
     - Typst (TBD)
-    - [Latex](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
+    - Python Notebook (see [sheet2]({{ "https://github.com/DM871/dm871.github.io/blob/main/notebooks/sheet2.ipynb" | absolute_url }})
+    - Quarto (TBD)
+    - [LaTeX](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
     - [Word](/assets/Templates/Template_Wordformat.docx) 
     - [OpenDocument](/assets/Templates/Template_Writerformat.odt)
 
@@ -42,25 +44,14 @@ and graphs you can use the aiding tools listed below.
     Grapher](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en),
     grapher in Mac, [graph.tk](http://graph.tk), tikz in Latex.
 
+<!--
+
 -   Text editor in VERBATIM mode (Unix: EMACS + ORG mode; Win:
     Gusek, etc)
 
--  To include source code in Latex you can use the package listing.
-```  
-  \usepackage{listing}
-  \lstinputlisting[language=Python, firstline=1, lastline=8]{solution.py}
-```
-
-- To include output of source code in Latex you can use:
-```
-\begin{verbatim}
-...
-\end{verbatim}
-```
-there is also a package called `Verbatim` to customize the verbatim output.
-
 - In Word to include code choose a monospace font like Courier.
 
+-->
 
 ## Typst
 
@@ -105,6 +96,10 @@ For those used to LaTeX, `\geq` becomes `>=`, `\leq` becomes `<=`, `\ldots` beco
     in LaTeX. Typesetting them in Word takes too long and the result is not good.
 
     -   [Latex symbol classifier](http://detexify.kirelabs.org/classify.html)
+        Note that this page will not be available at the exam because Internet will not be available.
+
+    - 
+
 
 <!-- [Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word) -->
 
@@ -169,6 +164,20 @@ $$\sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m$$
 $$x_j\geq 0, j=1,\ldots,n$$
 
 
+
+-  To include source code in Latex you can use the package listing.
+```  
+  \usepackage{listing}
+  \lstinputlisting[language=Python, firstline=1, lastline=8]{solution.py}
+```
+
+- To include output of source code in Latex you can use:
+```
+\begin{verbatim}
+...
+\end{verbatim}
+```
+there is also a package called `Verbatim` to customize the verbatim output.
 
 
 ## Instructions on the front page of the test
