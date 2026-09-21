@@ -71,4 +71,4 @@ Resources:
 [500]: {{ "/assets/sheets/dm545_sheet0_python.pdf" | absolute_url }}
 [51]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
 [522]: {{ "/assets/dm545-sheet2_plus.pdf" | absolute_url }}
-[530]: {{ "/assets/dm545-sheet3.pdf" | absolute_url }}
+[530]: {{ "/assets/sheets/dm545-sheet3.pdf" | absolute_url }}
