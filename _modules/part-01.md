@@ -42,8 +42,8 @@ Lecture resources:
 - Sheet 1: LP Modeling [[PDF][510]]. [[Solutions][610]]
 
 
-[510]: {{ "/assets/sheets/dm545-sheet1.pdf" | absolute_url }}
-[610]: {{ "assets/sheets/sol/dm545-sheet1.pdf" | absolute_url }}
+[510]: {{ "/assets/sheets/dm545-sheet01.pdf" | absolute_url }}
+[610]: {{ "assets/sheets/sol/dm545-sheet01.pdf" | absolute_url }}
 
 
 

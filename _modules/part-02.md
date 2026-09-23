@@ -29,8 +29,8 @@ Resources:
 [[Solutions][620]]. [[Solution code][622]]
 -->
 
-[520]: {{ "/assets/sheets/dm545-sheet2.pdf" | absolute_url }}
-[620]: {{ "assets/sheets/sol/dm545-sheet2.pdf" | absolute_url }}
+[520]: {{ "/assets/sheets/dm545-sheet02.pdf" | absolute_url }}
+[620]: {{ "assets/sheets/sol/dm545-sheet02.pdf" | absolute_url }}
 [622]: {{ "https://github.com/DM871/dm871.github.io/blob/main/notebooks/sheet2.ipynb" | absolute_url }}
 
 
@@ -71,9 +71,5 @@ Continue Sheet 2.
 
 
 
-
-[50]: {{ "/assets/sheets/dm545_sheet0.pdf" | absolute_url }}
-[500]: {{ "/assets/sheets/dm545_sheet0_python.pdf" | absolute_url }}
-[51]: {{ "/assets/sheets/dm545_sheet1.pdf" | absolute_url }}
 [522]: {{ "/assets/dm545-sheet2_plus.pdf" | absolute_url }}
-[530]: {{ "/assets/sheets/dm545-sheet3.pdf" | absolute_url }}
+[530]: {{ "/assets/sheets/dm545-sheet03.pdf" | absolute_url }}
