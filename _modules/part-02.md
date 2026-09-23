@@ -55,9 +55,9 @@ Resources:
 
 Continue Sheet 2.
 
-<!--
-- Sheet 3: [[PDF][530]].
--->
+
+- Sheet 3: [[PDF][530]]. Second part of the old Sheet 2
+
 
 <!-- **Exercises**{: .label .label-purple } -->
 
