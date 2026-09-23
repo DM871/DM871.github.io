@@ -23,11 +23,9 @@ Resources:
 ### Week 38: Exercise Class 2
 
 
-- Sheet 2: [[PDF][520]]. 
+- Sheet 2: [[PDF][520]]. [[Solutions][620]]. [[Solution code][622]] (originally
+  this sheet was longer but the seond half of exercises has been moved to sheet 3.)
 
-<!-- 
-[[Solutions][620]]. [[Solution code][622]]
--->
 
 [520]: {{ "/assets/sheets/dm545-sheet02.pdf" | absolute_url }}
 [620]: {{ "assets/sheets/sol/dm545-sheet02.pdf" | absolute_url }}
@@ -56,7 +54,7 @@ Resources:
 Continue Sheet 2.
 
 
-- Sheet 3: [[PDF][530]]. Second part of the old Sheet 2
+- Sheet 3: [[PDF][530]]. (Second part of the long Sheet 2 previously published)
 
 
 <!-- **Exercises**{: .label .label-purple } -->
