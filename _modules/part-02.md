@@ -51,9 +51,6 @@ Resources:
 ### Week 39: Exercise Class 3
 
 
-Continue Sheet 2.
-
-
 - Sheet 3: [[PDF][530]]. (Second part of the long Sheet 2 previously published)
 
 
