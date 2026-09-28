@@ -27,8 +27,8 @@ Resources:
 
 - Sheet 4: [[PDF][540]];
 
-[540]: {{ "/assets/sheets/dm545_sheet04.pdf" | absolute_url }}
-[640]: {{ "assets/sheets/sol/dm545_sheet04.pdf" | absolute_url }}
+[540]: {{ "/assets/sheets/dm545-sheet04.pdf" | absolute_url }}
+[640]: {{ "assets/sheets/sol/dm545-sheet04.pdf" | absolute_url }}
 <!-- **Exercises**{: .label .label-purple } -->
 
 <!--
