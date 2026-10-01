@@ -1,0 +1,56 @@
+---
+title: "Hello Typst!"
+format:
+  typst:
+    toc: true
+    section-numbering: 1.1.a
+    columns: 1
+jupyter: python3
+---
+
+
+## Linear Programming Model
+
+
+```{=typst}
+#import "@preview/equate:0.3.2": equate   // use the latest version from Typst Universe
+#show: equate
+#set math.equation(numbering: "(1)")
+```
+
+```{=typst}
+$
+  max quad & sum_(j=1)^n c_j x_j #label("ob") \
+  "s.t." quad & sum_(j=1)^n a_(i j) x_j >= b_i, quad i = 1, dots.h, m #label("c1") \
+  & x_j >= 0, quad j = 1, dots.h, n #label("c2")
+$
+```
+
+
+We simulate data.
+
+```{python}
+#| label: fig-mat
+#| fig-cap: "Simulated data for the constraint matrix."
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+rng = np.random.default_rng(42)
+n = 20
+m = 10
+
+A = rng.uniform(0, 10, (m, n))
+
+print(A) 
+
+plt.figure(figsize=(5, 6))
+plt.imshow(A, aspect="auto", interpolation="nearest", cmap="viridis")
+plt.colorbar(label="Value")
+plt.xlabel("Column")
+plt.ylabel("Constraint Index")
+#plt.xticks([0, 1], ["Intercept", "x"])
+plt.title("Constraint matrix A")
+plt.show()
+```
+

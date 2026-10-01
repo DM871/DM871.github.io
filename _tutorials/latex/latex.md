@@ -10,19 +10,20 @@ categories: notes
 
 ## LaTeX
 
--   Mathematical formulas, if not handwritten, are best encoded
-    in LaTeX. Typesetting them in Word takes too long and the result is not good.
+- [Learn LaTeX in 30
+  minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+  **Note: do not use Overleaf because Internet will not be allowed during the exam**
 
-    -   [Latex symbol classifier](http://detexify.kirelabs.org/classify.html)
-        Note that this page will not be available at the exam because Internet will not be available.
+- Mathematics in LaTeX:
 
-    - 
+    - [LaTeX Math for Undergrads](https://tug.ctan.org/info/undergradmath/undergradmath.pdf)
 
+    - [Latex symbol classifier](http://detexify.kirelabs.org/classify.html)
+        **Note that this page will not be available at the exam because Internet will not be available.**
+    - [Comprehensive LATEX Symbols List](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
+    
 
-<!-- [Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word) -->
-
--   To write ILP models in Latex you can use one of the following
-    templates:
+- To write ILP models in Latex you can use one of the following syntax:
 
 ```latex
 \begin{align}

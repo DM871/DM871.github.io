@@ -1,67 +1,58 @@
 ---
-title: "Least Squares in Quarto"
+title: "Linear Programming in Quarto"
 author: "Your Name"
 format:
-  html:
-    code-fold: true
-    toc: true
   pdf: default
 jupyter: python3
 ---
 
-## Model
+## Linear Programming Model
 
-We assume a linear relationship $y_i = \beta_0 + \beta_1 x_i + \varepsilon_i$
-with $\varepsilon_i \sim \mathcal{N}(0, \sigma^2)$. In matrix form, the
-least-squares estimator is
 
 $$
-\hat{\boldsymbol{\beta}} = (X^\top X)^{-1} X^\top \mathbf{y}
-$$ {#eq-ols}
+\begin{array}{lrll}
+    \max & \sum\limits_{j=1}^nc_jx_j\\
+    &\sum\limits_{j=1}^n a_{ij}x_j&\leq b_i,& i=1,\ldots,m\\
+    &x_j&\geq 0,& j=1,\ldots,n
+\end{array}
+$$ {#eq-ob}
 
-## Simulation
+@eq-ob is a linear programming model with $n$ decision variables $x_j$ and $m$
+constraints. The coefficients $c_j$ represent the contribution of each variable
+to the objective, while $a_{ij}$ and $b_i$ define the constraints.
 
-We simulate data and apply @eq-ols directly.
+
+We simulate data.
 
 ```{python}
-#| label: fig-fit
-#| fig-cap: "Simulated data and the fitted least-squares line."
+#| label: fig-mat
+#| fig-cap: "Simulated data for the constraint matrix."
 
 import numpy as np
 import matplotlib.pyplot as plt
 
 rng = np.random.default_rng(42)
-n = 100
-x = rng.uniform(0, 10, n)
-y = 2.0 + 0.5 * x + rng.normal(0, 1, n)
+n = 20
+m = 10
 
-X = np.column_stack([np.ones(n), x])
-beta = np.linalg.solve(X.T @ X, X.T @ y)
+A = rng.uniform(0, 10, (m, n))
 
-xs = np.linspace(0, 10, 100)
-plt.scatter(x, y, alpha=0.6, label="data")
-plt.plot(xs, beta[0] + beta[1] * xs, color="red", label="fit")
-plt.legend()
+print(A)
+
+plt.figure(figsize=(5, 6))
+plt.imshow(A, aspect="auto", interpolation="nearest", cmap="viridis")
+plt.colorbar(label="Value")
+plt.xlabel("Column")
+plt.ylabel("Constraint Index")
+#plt.xticks([0, 1], ["Intercept", "x"])
+plt.title("Constraint matrix A")
 plt.show()
 ```
 
 ## Results
 
-As shown in @fig-fit, the estimates are
-$\hat\beta_0 =$ `{python} f"{beta[0]:.2f}"` and
-$\hat\beta_1 =$ `{python} f"{beta[1]:.2f}"`,
-close to the true values $2.0$ and $0.5$.
+As shown in @fig-mat, the estimates are
+$n =$ `{python} f"{A.shape[1]:.2f}"` and
+$m =$ `{python} f"{A.shape[0]:.2f}"`.
 
-The residual variance is estimated by
-
-$$
-\hat\sigma^2 = \frac{1}{n-2}\sum_{i=1}^{n} \left(y_i - \hat\beta_0 - \hat\beta_1 x_i\right)^2 .
-$$
-
-```{python}
-#| echo: false
-resid = y - X @ beta
-sigma2 = resid @ resid / (n - 2)
-print(f"sigma^2 estimate: {sigma2:.3f}")
-```
 

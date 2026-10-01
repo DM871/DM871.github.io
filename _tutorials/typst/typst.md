@@ -26,6 +26,15 @@ typst compile file.typ
 This will create a file called `file.pdf` in the same directory.
 
 
+Mathematics in typst does not follow LaTeX syntax:
+
+- [intro to math in typst](https://typst.app/docs/reference/math/)
+- [symbols in typst](https://typst.app/docs/reference/symbols/sym/) (print
+  eventually this page in PDF for the exam.) See also this
+  [version](https://trybibby.com/common-typst-symbols)
+- [from LaTeX to Typst](https://tug.ctan.org/info/typstfun/typstfun.pdf)
+
+
 ## Linear Programming Models
 
 ```

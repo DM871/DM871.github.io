@@ -35,7 +35,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://imada.sdu.dk"
 #baseurl: "/u/marco/Teaching/AY2025-2026/DM871"
 
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "Dockerfile", "docker-compose.yml", "drafts", "_drafts"]
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENSE"
+  - "vendor"
+  - "Dockerfile"
+  - "docker-compose.yml"
+  - "drafts"
+  - "_drafts"
+  - "*.qmd"
+  - "**/*.qmd"
+  - "_tutorials/quarto/*.html"
+  - "_tutorials/quarto/*.pdf"
+  - "_tutorials/quarto/*_files"
+  - "_tutorials/quarto/example_files"
 
 timezone: "Europe/Copenhagen"
 
@@ -161,7 +175,6 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
-
 
 sass:
   quiet_deps: true

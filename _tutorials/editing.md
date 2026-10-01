@@ -17,7 +17,7 @@ mathematical formulas, graphs and code. To typeset your answer the following
 systems are suggested:
 
 - Python Notebook (see [sheet2]({{ "https://github.com/DM871/dm871.github.io/blob/main/notebooks/sheet2.ipynb" | absolute_url }}))
-- Quarto [tutorial]({{ "tutorials/quarto/quarto" | absolute_url }})
+- Quarto: [tutorial]({{ "tutorials/quarto/quarto" | absolute_url }})
 - Typst: [tutorial]({{ "tutorials/typst/typst" | absolute_url }})
 - LaTeX: [tutorial]({{ "tutorials/latex/latex" | absolute_url }}), [template](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
 - Microsoft Word: [template](/assets/Templates/Template_Wordformat.docx)
