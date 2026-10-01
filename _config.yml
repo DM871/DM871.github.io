@@ -84,6 +84,9 @@ collections:
   announcements:
     permalink: "/:path"
     output: true
+  announcements:
+    permalink: "/:path"
+    output: true
 
 
 # Default layouts for each collection type

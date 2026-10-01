@@ -1,0 +1,67 @@
+---
+title: "Least Squares in Quarto"
+author: "Your Name"
+format:
+  html:
+    code-fold: true
+    toc: true
+  pdf: default
+jupyter: python3
+---
+
+## Model
+
+We assume a linear relationship $y_i = \beta_0 + \beta_1 x_i + \varepsilon_i$
+with $\varepsilon_i \sim \mathcal{N}(0, \sigma^2)$. In matrix form, the
+least-squares estimator is
+
+$$
+\hat{\boldsymbol{\beta}} = (X^\top X)^{-1} X^\top \mathbf{y}
+$$ {#eq-ols}
+
+## Simulation
+
+We simulate data and apply @eq-ols directly.
+
+```{python}
+#| label: fig-fit
+#| fig-cap: "Simulated data and the fitted least-squares line."
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+rng = np.random.default_rng(42)
+n = 100
+x = rng.uniform(0, 10, n)
+y = 2.0 + 0.5 * x + rng.normal(0, 1, n)
+
+X = np.column_stack([np.ones(n), x])
+beta = np.linalg.solve(X.T @ X, X.T @ y)
+
+xs = np.linspace(0, 10, 100)
+plt.scatter(x, y, alpha=0.6, label="data")
+plt.plot(xs, beta[0] + beta[1] * xs, color="red", label="fit")
+plt.legend()
+plt.show()
+```
+
+## Results
+
+As shown in @fig-fit, the estimates are
+$\hat\beta_0 =$ `{python} f"{beta[0]:.2f}"` and
+$\hat\beta_1 =$ `{python} f"{beta[1]:.2f}"`,
+close to the true values $2.0$ and $0.5$.
+
+The residual variance is estimated by
+
+$$
+\hat\sigma^2 = \frac{1}{n-2}\sum_{i=1}^{n} \left(y_i - \hat\beta_0 - \hat\beta_1 x_i\right)^2 .
+$$
+
+```{python}
+#| echo: false
+resid = y - X @ beta
+sigma2 = resid @ resid / (n - 2)
+print(f"sigma^2 estimate: {sigma2:.3f}")
+```
+

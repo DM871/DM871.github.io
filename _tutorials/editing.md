@@ -8,41 +8,46 @@ categories: notes
 
 # Preparation for the Written Exam
 
-While all aiding tools are allowed at the written exam, the **use of internet is not allowed**! 
+At the written exam, all aiding tools are allowed but the **use of internet is not allowed**! 
 
-## Templates
+## Typesetting
  
-The submissions is digital. To digitalize your answers, made of text, formulas
-and graphs you can use the aiding tools listed below.
+The submissions is digital and must be in PDF format. You will need text,
+mathematical formulas, graphs and code. To typeset your answer the following
+systems are suggested:
 
--   Recommended answer templates: 
-    - Typst (TBD)
-    - Python Notebook (see [sheet2]({{ "https://github.com/DM871/dm871.github.io/blob/main/notebooks/sheet2.ipynb" | absolute_url }})
-    - Quarto (TBD)
-    - [LaTeX](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
-    - [Word](/assets/Templates/Template_Wordformat.docx) 
-    - [OpenDocument](/assets/Templates/Template_Writerformat.odt)
+- Python Notebook (see [sheet2]({{ "https://github.com/DM871/dm871.github.io/blob/main/notebooks/sheet2.ipynb" | absolute_url }}))
+- Quarto [tutorial]({{ "tutorials/quarto/quarto" | absolute_url }})
+- Typst: [tutorial]({{ "tutorials/typst/typst" | absolute_url }})
+- LaTeX: [tutorial]({{ "tutorials/latex/latex" | absolute_url }}), [template](/assets/Templates/template_answers.tex) ([PDF](/assets/Templates/template_answers.pdf))
+- Microsoft Word: [template](/assets/Templates/Template_Wordformat.docx)
+- OpenDocument: [template](/assets/Templates/Template_Writerformat.odt)
 
+##  Aiding tools
 
+- Digital pens and hand scanners.
 
-## Aiding tools
-
--   Digital pens and hand scanners.
-
--   Python with module `numpy` for scripting solution approaches. Here, you find a
+- Python with module `numpy` for scripting solution approaches. Here, you find a
     tutorial on how to use [Python for matrix
     operations](https://github.com/DM871/dm871.github.io/blob/main/notebooks/Tutorial4Exam.ipynb)
     (modules "numpy" and "fractions"). Where requested, MILP models can be
-    implemented and solved with one of the software listed in the tutorial: [MILP Software](/tutorials/software.html).  
+    implemented and solved with one of the software listed in the tutorial:
+    [MILP Software](/tutorials/software.html).  
 
--   Alternatives to Python for matrix calculations: R, MATLAB,
-    Maple, etc.
+- Alternatives to Python for matrix calculations: R, MATLAB, Maple, etc.
 
--   [WC] Stefan Waner and Steven R. Costenoble. [Simplex Method tool](https://www.zweigmedia.com/simplex/simplex.php?lang=en)
+## Other Aiding Tools Not Allowed at the Exam
 
--   Tools for plotting graphs: [LP
+The following aiding tools can be used during the course but will not be allowed
+at the exam.
+
+- [WC] Stefan Waner and Steven R. Costenoble. [Simplex Method
+    tool](https://www.zweigmedia.com/simplex/simplex.php?lang=en).
+
+- Tools for plotting graphs: [LP
     Grapher](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en),
     grapher in Mac, [graph.tk](http://graph.tk), tikz in Latex.
+
 
 <!--
 
@@ -53,132 +58,8 @@ and graphs you can use the aiding tools listed below.
 
 -->
 
-## Typst
 
-```{typst}
-#set math.equation(numbering: "(1)")
-
-$
-  max quad & sum_(j=1)^n c_j x_j \
-  "s.t." quad & sum_(j=1)^n a_(i j) x_j >= b_i, quad i = 1, dots.h, m \
-  & x_j >= 0, quad j = 1, dots.h, n
-$ <ob>
-```
-
-Native Typst gives one number per block equation, not one per line. To number each line and label them separately (as align does), use the equate package:
-
-```{typst}
-#import "@preview/equate:0.3.2": equate   // use the latest version from Typst Universe
-#show: equate
-#set math.equation(numbering: "(1)")
-
-$
-  max quad & sum_(j=1)^n c_j x_j <ob> \
-  "s.t." quad & sum_(j=1)^n a_(i j) x_j >= b_i, quad i = 1, dots.h, m <c1> \
-  & x_j >= 0, quad j = 1, dots.h, n <c2>
-$
-```
-
-Alternatively, it is possible to write three separate equations
-```{typst}
-$ max sum_(j=1)^n c_j x_j $ <ob>
-
-$ sum_(j=1)^n a_(i j) x_j <= b_i, quad i = 1, dots.h, m $ <c1>
-
-$ x_j >= 0, quad j = 1, dots.h, n $ <c2>
-```
-
-For those used to LaTeX, `\geq` becomes `>=`, `\leq` becomes `<=`, `\ldots` becomes `dots.h`, `\mbox{s.t.}` becomes "s.t.", `\quad` becomes `quad`, and `\\` becomes `\`.
-
-## LaTeX
-
--   Mathematical formulas, if not handwritten, are best encoded
-    in LaTeX. Typesetting them in Word takes too long and the result is not good.
-
-    -   [Latex symbol classifier](http://detexify.kirelabs.org/classify.html)
-        Note that this page will not be available at the exam because Internet will not be available.
-
-    - 
-
-
-<!-- [Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word) -->
-
--   To write ILP models in Latex you can use one of the following
-    templates:
-
-```
-\begin{align}
- \label{ob} \max \; \quad & \sum_{j=1}^nc_jx_j  \\
- \label{c1} \mbox{s.t.}\quad &\sum\limits_{j=1}^n a_{ij}x_j\geq b_i, \quad i=1,\ldots,m \\
- \label{c2} &x_j \geq 0, \quad j=1,\ldots,n   
-\end{align}
-```
-
-$$\begin{align}
-   \label{ob} \max \; \quad & \sum_{j=1}^nc_jx_j  \\
-   \label{c1} \mbox{s.t.} \quad &\sum\limits_{j=1}^n a_{ij}x_j\geq b_i, \quad i=1,\ldots,m \\
-   \label{c2} &x_j \geq 0, \quad j=1,\ldots,n   
-\end{align}
-$$
-
-
-
-```
-\begin{equation}
- \begin{array}{lrll}
-  \max & \sum\limits_{j=1}^nc_jx_j\\
-      & \sum\limits_{j=1}^n a_{ij}x_j & \leq b_i,& i=1,\ldots,m\\
-      & x_j&\geq 0, & j=1,\ldots,n
- \end{array}
-\end{equation}
-```
-
-$$
-\begin{array}{lrll}
-    \max & \sum\limits_{j=1}^nc_jx_j\\
-    &\sum\limits_{j=1}^n a_{ij}x_j&\leq b_i,& i=1,\ldots,m\\
-    &x_j&\geq 0,& j=1,\ldots,n
-\end{array}
-$$
-
-
-```
-\begin{equation}
-    \label{ob}
-    \max  \sum_{j=1}^nc_jx_j\\
-\end{equation}
-\begin{equation}
-    \label{c1}
-    \sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m\\
-\end{equation}
-\begin{equation}
-    \label{c2}
-    x_j\geq 0, j=1,\ldots,n
-\end{equation}
-```
-
-$$\max  \sum_{j=1}^nc_jx_j$$
-
-$$\sum_{j=1}^n a_{ij}x_j\leq b_i, i=1,\ldots,m$$
-
-$$x_j\geq 0, j=1,\ldots,n$$
-
-
-
--  To include source code in Latex you can use the package listing.
-```  
-  \usepackage{listing}
-  \lstinputlisting[language=Python, firstline=1, lastline=8]{solution.py}
-```
-
-- To include output of source code in Latex you can use:
-```
-\begin{verbatim}
-...
-\end{verbatim}
-```
-there is also a package called `Verbatim` to customize the verbatim output.
-
+<!--
 
 ## Instructions on the front page of the test
 
@@ -237,3 +118,5 @@ there is also a package called `Verbatim` to customize the verbatim output.
 
 - The contribution of each subtask to the final evaluation is
   intentionally not given.
+
+-->

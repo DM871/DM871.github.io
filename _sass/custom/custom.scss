@@ -56,3 +56,40 @@ summary {
     }
   }
 }
+
+
+div.highlighter-rouge div.highlight {
+  background: #f1f5f4;
+  // border-left: 4px solid #27806f;
+  // border-radius: 4px;
+  border: 0;
+  overflow-x: auto;
+  padding: 1rem 1.25rem;
+}
+
+.highlighter-rouge .highlight pre {
+  background: transparent;
+  margin: 0;
+}
+
+.highlighter-rouge .highlight code {
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+
+.highlighter-rouge .highlight .k,
+.highlighter-rouge .highlight .kd {
+  color: #1769aa;
+  font-weight: 700;
+}
+
+.highlighter-rouge .highlight .s {
+  color: #a34b26;
+}
+
+.highlighter-rouge .highlight .c,
+.highlighter-rouge .highlight .c1 {
+  color: #64736e;
+  font-style: italic;
+}
