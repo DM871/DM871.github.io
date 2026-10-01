@@ -51,7 +51,7 @@ Resources:
 ### Week 39: Exercise Class 3
 
 
-- Sheet 3: [[PDF][530]]. (Second part of the long Sheet 2 previously published)
+- Sheet 3: [[PDF][530]]. [[Solutions][630]].
 
 
 <!-- **Exercises**{: .label .label-purple } -->
@@ -68,3 +68,4 @@ Resources:
 
 [522]: {{ "/assets/dm545-sheet2_plus.pdf" | absolute_url }}
 [530]: {{ "/assets/sheets/dm545-sheet03.pdf" | absolute_url }}
+[620]: {{ "assets/sheets/sol/dm545-sheet03.pdf" | absolute_url }}

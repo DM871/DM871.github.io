@@ -25,7 +25,7 @@ Resources:
 
 ### Week 40: Exercise Class 4
 
-- Sheet 4: [[PDF][540]];
+- Sheet 4: [[PDF][540]]
 
 [540]: {{ "/assets/sheets/dm545-sheet04.pdf" | absolute_url }}
 [640]: {{ "assets/sheets/sol/dm545-sheet04.pdf" | absolute_url }}
