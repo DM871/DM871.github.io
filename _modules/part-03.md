@@ -46,22 +46,22 @@ Resources:
 
 Contents:
 
+- Economic Interpretation (last slides from intro class 5)
 - Derivation:
   - Lagrangian Relaxation approach
 - Applications: 
   - Dual Simplex
-
+- Sensitivity Analysis
+- 
 Resources:
-- Slides 
 
-<!-- [[PDF]({{ "/assets/slides/dm545_handout_lec06_duality-2.pdf" | absolute_url }})]
--->
-
+- Slides [[PDF]({{ "/assets/slides/dm545_handout-lec06_duality-2.pdf" | absolute_url }})]
 - LN pp 52-56: [[PDF]({{ "/assets/docs/dm545-main.pdf#lagrangian" | absolute_url }})]
-- Reading about dual simplex: [F sec 5.6-5.8]; [Va sc 7.1]; [CL ch 2]    
-
-
+- Reading about dual simplex: [F sec 5.6-5.8]; [Va sc 7.1]; [CL ch 2]
 
 ### Week 41: Exercise Class 5
 
-- Sheet 5
+- Sheet 5 [[PDF][550]]
+
+[550]: {{ "/assets/sheets/dm545-sheet05.pdf" | absolute_url }}
+[650]: {{ "assets/sheets/sol/dm545-sheet05.pdf" | absolute_url }}
