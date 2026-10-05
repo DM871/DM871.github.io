@@ -52,12 +52,10 @@ Contents:
 - Applications: 
   - Dual Simplex
 - Sensitivity Analysis
-- Revised Simplex 
-- 
+ 
 Resources:
 
 - Slides [[PDF]({{ "/assets/slides/dm545_handout-lec06_duality-2.pdf" | absolute_url }})]
-- Slides [[PDF]({{ "/assets/slides/dm545_handout-lec07_revised.pdf" | absolute_url }})]
 - LN pp 52-56: [[PDF]({{ "/assets/docs/dm545-main.pdf#lagrangian" | absolute_url }})]
 - Reading about dual simplex: [F sec 5.6-5.8]; [Va sc 7.1]; [CL ch 2]
 
