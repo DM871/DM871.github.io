@@ -140,9 +140,9 @@ Continue this tutorial with the hands on parts:
   of this tutorial.
 
 - highspy:
-  [Part 1](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_highs_1.ipynb)
+  [Part 1](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_highspy_1.ipynb)
   and
-  [Part 2](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_highs_2.ipynb)
+  [Part 2](https://github.com/DM871/dm871.github.io/blob/main/notebooks/lab_highspy_2.ipynb)
   of this tutorial.
 
 
