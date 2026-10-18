@@ -1,5 +1,5 @@
 ---
-title: "Unit 4: Sensitivity Analysis and Revised Simplex" 
+title: "Unit 4: Revised Simplex" 
 ---
 
 
