@@ -61,7 +61,7 @@ Resources:
 
 ### Week 41: Exercise Class 5
 
-- Sheet 5 [[PDF][550]]
+- Sheet 5 [[PDF][550]] [[Solutions][650]]
 
 [550]: {{ "/assets/sheets/dm545-sheet05.pdf" | absolute_url }}
 [650]: {{ "assets/sheets/sol/dm545-sheet05.pdf" | absolute_url }}
