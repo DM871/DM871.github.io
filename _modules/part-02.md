@@ -36,6 +36,7 @@ Resources:
 ### Week 39: Class 5
 
 Contents:
+
 - Exception Handling, degeneracies, pivot rules,
 - Initialization
 
