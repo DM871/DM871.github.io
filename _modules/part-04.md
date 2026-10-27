@@ -21,7 +21,11 @@ Resources:
 
 ### Week 43: Exercise Class 6
 
-- Sheet 6 [[PDF][560]]. [[Solutions][660]]
+- Sheet 6 [[PDF][560]]. [[Solutions][660]], Factory planning solutions: [1][661], [2][662] 
 
 [560]: {{ "/assets/sheets/dm545-sheet06.pdf" | absolute_url }}
 [660]: {{ "assets/sheets/sol/dm545-sheet06.pdf" | absolute_url }}
+
+
+[661]: notebooks/factory_planning_maintenance_sol.ipynb
+[662]: {{ "assets/sheets/sol/fpmm_sol.pdf" | absolute_url }}
