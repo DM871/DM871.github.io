@@ -15,7 +15,7 @@ nav_order: 5
   
     DM871: assignment in the second half of the course
   
-    DM545/DM871: written exam, 3 hours on January 11th
+    DM545/DM871: written exam, 3 hours on <s>January 11th</s> January 15th</s>.
 
 
 

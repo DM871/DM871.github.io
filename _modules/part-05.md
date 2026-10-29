@@ -17,7 +17,7 @@ Resources:
 
 ### Week 44: Exercise Class 7
 
-- Sheet 7  [[PDF][570]].
+- Sheet 7  [[PDF][570]]. [[Solutions][670]]. (Changed order after the class.)
 
 [570]: {{ "/assets/sheets/dm545-sheet07.pdf" | absolute_url }}
 [670]: {{ "assets/sheets/sol/dm545-sheet07.pdf" | absolute_url }}
@@ -26,12 +26,15 @@ Resources:
 
 Contents:  
 
-- Formulations and Relaxations
-- Modeling tricks
+- More modeling examples from last class
+- Formulations 
+- Relaxations
+
 
 Resources:
 
-- Slides <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec09_formulations.pdf" |absolute_url }})] -->
+- Slides from class 8
+- Slides [[PDF]({{ "/assets/slides/dm545_handout-lec09_formulations.pdf" |absolute_url }})]
 - LN [sc 5.4, 6];
 - Reading about formulations and relaxations: [Wo ch 2]
 
