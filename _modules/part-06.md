@@ -41,7 +41,7 @@ Resources:
 
 ### Week 47: Exercise Class 10
 
-- Sheet 10:
+- Sheet 10
   
 <!--
 - 
