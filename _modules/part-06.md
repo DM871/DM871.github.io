@@ -13,7 +13,7 @@ Contents:
 
 Resources:
 
-- Slides [[PDF]({{ "/assets/slides/dm545_handout_lec10_netflows.pdf" | absolute_url }})]
+- Slides [[PDF]({{ "/assets/slides/dm545_handout-lec10_netflows.pdf" | absolute_url }})]
 - Reading material: [F sc 6.2]; [Wo sec. 3.2-3.5]
 
 ### Week 46: Exercise Class 9
