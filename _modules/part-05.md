@@ -41,7 +41,7 @@ Resources:
 
 ### Week 45: Exercise 8
 
-- Sheet 8 [[PDF][580]]
+- Sheet 8 [[PDF][580]]. [[Solutions][680]].
 
 
 

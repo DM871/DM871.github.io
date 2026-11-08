@@ -18,8 +18,11 @@ Resources:
 
 ### Week 46: Exercise Class 9
 
-- Sheet 9
+- Sheet 9 [[PDF][590]].
 
+
+[590]: {{ "/assets/sheets/dm545-sheet09.pdf" | absolute_url }}
+[690]: {{ "assets/sheets/sol/dm545-sheet09.pdf" | absolute_url }}
 
 ### Week 47: Intro Class 11
 
