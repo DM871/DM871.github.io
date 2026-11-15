@@ -18,7 +18,7 @@ Resources:
 
 ### Week 46: Exercise Class 9
 
-- Sheet 9 [[PDF][590]].
+- Sheet 9 [[PDF][590]]. [[Solutions][690]].
 
 
 [590]: {{ "/assets/sheets/dm545-sheet09.pdf" | absolute_url }}
@@ -33,7 +33,7 @@ Contents:
 
 Resources:
 
-- Slides <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec13_net_simplex.pdf"}})] -->
+- Finishing slides from Intro Class 10 <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec13_net_simplex.pdf"}})] -->
 - Reading material: [AMO-ch1]; [Wi-ch9]    
 
 <!--
@@ -44,8 +44,13 @@ Resources:
 
 ### Week 47: Exercise Class 10
 
-- Sheet 10
-  
+- Sheet 10 [[PDF][5000]]
+
+
+[5000]: {{ "/assets/sheets/dm545-sheet10.pdf" | absolute_url }}
+[6000]: {{ "assets/sheets/sol/dm545-sheet10.pdf" | absolute_url }}
+
+
 <!--
 - 
 -  [[PDF][7]]
