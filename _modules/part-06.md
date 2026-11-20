@@ -45,7 +45,7 @@ Resources:
 ### Week 47: Exercise Class 10
 
 - Sheet 10 [[PDF][5000]]
-
+- [Obligatory Assignment for DM871][{{ "assets/portfolio.pdf" }}],  [data][{{ "assets/indtrack6.dat" }}], [script][ {{ "assets/portfolio.py" }}] 
 
 [5000]: {{ "/assets/sheets/dm545-sheet10.pdf" | absolute_url }}
 [6000]: {{ "assets/sheets/sol/dm545-sheet10.pdf" | absolute_url }}
