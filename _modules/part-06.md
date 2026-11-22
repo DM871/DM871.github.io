@@ -14,7 +14,7 @@ Contents:
 Resources:
 
 - Slides [[PDF]({{ "/assets/slides/dm545_handout-lec10_netflows.pdf" | absolute_url }})]
-- Reading material: [F sc 6.2]; [Wo sec. 3.2-3.5]
+- Optional reading material: [F sc 6.2]; [Wo sec. 3.2-3.5]
 
 ### Week 46: Exercise Class 9
 
@@ -24,7 +24,7 @@ Resources:
 [590]: {{ "/assets/sheets/dm545-sheet09.pdf" | absolute_url }}
 [690]: {{ "assets/sheets/sol/dm545-sheet09.pdf" | absolute_url }}
 
-### Week 47: Intro Class 11
+### Week 47: Intro Class 10
 
 Contents:
 
@@ -34,7 +34,7 @@ Contents:
 Resources:
 
 - Finishing slides from Intro Class 10 <!-- [[PDF]({{ "/assets/slides/dm545_handout_lec13_net_simplex.pdf"}})] -->
-- Reading material: [AMO-ch1]; [Wi-ch9]    
+- Optional reading material: [AMO-ch1]; [Wi-ch9]    
 
 <!--
 
