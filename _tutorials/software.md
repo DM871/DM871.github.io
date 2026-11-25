@@ -87,14 +87,15 @@ recommended to set up a local working environment with the following steps:
 - Choose one of the following:
 
   - Install `gurobipy` (easiest alternative). Follow these
-    [guidelines](https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python-). The
-    recommended installation is via `pip`.  This should install also
-    gurobi. To make it work you need also a license from the gurobi web
-    page. You could use the tools from
-    [here](https://support.gurobi.com/hc/en-us/articles/360059842732)
-    and register at the [gurobi page](https://www.gurobi.com) to get
-    the license. See also this local page of [guidelines]({{ "tutorials/gurobi/gurobi" | absolute_url }})
-    for a full installation and documentation of gurobi.
+    [guidelines](https://support.gurobi.com/hc/en-us/articles/360044290292-How-do-I-install-Gurobi-for-Python-).
+    The recommended installation is via `pip`.  This should install also gurobi.
+    To make it work, if your problem is large in size, you may need also a
+    license from the gurobi web page. You could use the tools from
+    [here](https://support.gurobi.com/hc/en-us/articles/360059842732) and
+    register at the [gurobi page](https://www.gurobi.com) to get the trial or
+    the academic license. See also this local page of [guidelines]({{
+    "tutorials/gurobi/gurobi" | absolute_url }}) for a full installation and
+    documentation of gurobi.
 
   - Alternatively, install HiGHSpy with `pip install highspy`.
 
