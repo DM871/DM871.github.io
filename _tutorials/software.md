@@ -93,7 +93,7 @@ recommended to set up a local working environment with the following steps:
     page. You could use the tools from
     [here](https://support.gurobi.com/hc/en-us/articles/360059842732)
     and register at the [gurobi page](https://www.gurobi.com) to get
-    the license. See also this local page of [guidelines](../gurobi/)
+    the license. See also this local page of [guidelines]({{ "tutorials/gurobi/gurobi" | absolute_url }})
     for a full installation and documentation of gurobi.
 
   - Alternatively, install HiGHSpy with `pip install highspy`.
